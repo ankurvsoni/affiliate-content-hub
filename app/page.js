@@ -53,6 +53,20 @@ export default function HomePage() {
         );
       })}
 
+      <section>
+        <h2 className="section-title">Live Projects</h2>
+        <div className="grid">
+          <a className="card" href="https://roi.orkolabs.com" target="_blank" rel="noopener noreferrer">
+            <h3>AI Tool Cost & ROI Calculators</h3>
+            <p>Interactive calculators for AI software cost, ROI, and break-even analysis.</p>
+          </a>
+          <a className="card" href="https://www.orkolabs.com" target="_blank" rel="noopener noreferrer">
+            <h3>AI Writing Tools Hub</h3>
+            <p>Comparisons, alternatives, and review guides for AI writing workflows.</p>
+          </a>
+        </div>
+      </section>
+
       <footer>
         Built by OrkoLabs · Read our <Link href="/how-we-test">testing method</Link> and <Link href="/editorial-policy">editorial policy</Link>.
       </footer>
