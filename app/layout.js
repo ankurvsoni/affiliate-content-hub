@@ -2,8 +2,13 @@ import './globals.css';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Orko Labs — AI Writing Tools Hub',
-  description: 'Practical reviews, comparisons, and alternatives for AI writing tools.',
+  metadataBase: new URL('https://www.orkolabs.com'),
+  title: 'Orko Labs — Digital Asset Studio',
+  description:
+    'Orko Labs builds practical digital products and decision tools focused on automation and compounding internet distribution.',
+  alternates: {
+    canonical: 'https://www.orkolabs.com/',
+  },
 };
 
 export default function RootLayout({ children }) {
