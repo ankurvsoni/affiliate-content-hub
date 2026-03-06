@@ -14,6 +14,13 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1733768466473341"
+          crossOrigin="anonymous"
+        ></script>
+      </head>
       <body>
         <header className="siteHeader">
           <div className="wrap navRow">
