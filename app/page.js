@@ -33,6 +33,11 @@ export default function HomePage() {
             <h3>AI Writing Tools Hub</h3>
             <p>Comparisons, alternatives, and review guides for AI writing workflows.</p>
           </a>
+
+          <a className="card" href="https://cricket.orkolabs.com" target="_blank" rel="noopener noreferrer">
+            <h3>ABCD Cricket</h3>
+            <p>2-player turn-based ABCD cricket game for quick local matches.</p>
+          </a>
         </div>
       </section>
 
