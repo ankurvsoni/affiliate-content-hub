@@ -9,6 +9,7 @@ export async function generateStaticParams() {
 
 export default async function ContentPage({ params }) {
   const page = getPageBySlug(params.slug);
+  const isPilotStyle = page?.slug === 'easter-basket-fillers-amazon';
   if (!page) return notFound();
 
   const productMatch = page.html.match(/https:\/\/www\.amazon\.com\/dp\/[A-Z0-9]{10}\/\?tag=[^"'\s<)]+/i);

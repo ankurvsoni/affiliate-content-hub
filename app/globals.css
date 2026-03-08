@@ -107,3 +107,22 @@ footer{color:var(--muted);font-size:13px;margin:30px 0 10px}
 /* cleaner section rhythm */
 .container h2{margin-top:26px}
 .container p{line-height:1.6}
+
+
+/* Pilot visual polish (Apple/Airbnb-inspired) — one page only */
+.article.pilotStyle{max-width:860px;margin:0 auto}
+.article.pilotStyle h1{font-size:44px;line-height:1.08;letter-spacing:-0.02em;margin:10px 0 14px}
+.article.pilotStyle h2{font-size:28px;line-height:1.2;letter-spacing:-0.01em;margin-top:34px}
+.article.pilotStyle .notice{background:#f6f7f8;border:1px solid #e7e9eb;border-radius:14px;padding:14px 16px}
+.article.pilotStyle table{border-radius:14px;overflow:hidden;box-shadow:0 1px 0 rgba(0,0,0,.03)}
+.article.pilotStyle .topPicks{grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+.article.pilotStyle .topPicks li{border-radius:18px;padding:16px;border:1px solid #eceff1;box-shadow:0 6px 22px rgba(0,0,0,.05);background:#fff}
+.article.pilotStyle .topPicks li strong{font-size:17px;line-height:1.35}
+.article.pilotStyle .topPicks li .li-sub{font-size:13px;line-height:1.5;color:#525866}
+.article.pilotStyle .topPicks li a[href*="amazon.com/dp/"]{background:#111;color:#fff;border-color:#111}
+.article.pilotStyle .topPicks li a[href*="amazon.com/dp/"]:hover{background:#000;filter:none}
+.article.pilotStyle .cta{border-radius:16px;background:#f8fafb;border:1px solid #e9edf0;padding:16px}
+@media(max-width:800px){
+  .article.pilotStyle h1{font-size:34px}
+  .article.pilotStyle h2{font-size:24px}
+}
