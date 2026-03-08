@@ -19,15 +19,19 @@ If your desk wobbles every time you type, start with frame stability before you 
 ## Comparison table
 | Option | Best for | Main tradeoff |
 |---|---|---|
-| Budget path | Fast improvements | Lower long-term durability |
-| Mid-range path | Daily heavy use | Higher upfront cost |
-| Premium path | Fewer compromises | More setup effort |
+| Budget path (around $100–$150) | First sit-stand upgrade | More wobble near max height |
+| Mid path (around $180–$260) | Daily standing blocks | Heavier frame + higher upfront cost |
+| Premium path ($300+) | Long-term stability | More assembly time and fewer “quick ship” options |
 
 ## Top picks (live snapshot)
-- **ErGear Electric Standing Desk 47x24** — $94.99 · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
-- **ErGear Electric Standing Desk 48x24** — $129.99 · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)
-- **ErGear Electric Standing Desk 55x28** — $169.98 · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)
-- **FLEXISPOT EN2 Standing Desk** — $229.99 · 4.5 out of 5 · (4,691) · [Check on Amazon](https://www.amazon.com/dp/B07W8W8XKV/?tag=triedandtr0d5-20)
+- **ErGear Electric Standing Desk 47x24** — $94.99 · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)  
+  Best for tight budgets. Tradeoff: it’s good value, but typing bounce can show up faster with heavier monitor arms.
+- **ErGear Electric Standing Desk 48x24** — $129.99 · 4.4 out of 5 · (1,296) · [Check on Amazon](https://www.amazon.com/dp/B0B4218ZG3/?tag=triedandtr0d5-20)  
+  Best balance for most solo workstations. Tradeoff: still an entry-class frame, so don’t expect premium-level rigidity.
+- **ErGear Electric Standing Desk 55x28** — $169.98 · 4.5 out of 5 · (4,384) · [Check on Amazon](https://www.amazon.com/dp/B0B41Z34M7/?tag=triedandtr0d5-20)  
+  Best if you need extra depth for dual-screen layouts. Tradeoff: bigger footprint can overwhelm small rooms.
+- **FLEXISPOT EN2 Standing Desk** — $229.99 · 4.5 out of 5 · (4,691) · [Check on Amazon](https://www.amazon.com/dp/B07W8W8XKV/?tag=triedandtr0d5-20)  
+  Better long-term daily driver. Tradeoff: you’re paying more for consistency, not flashy extra features.
 
 ## Who should skip this
 Skip a standing-desk purchase if your chair is still non-adjustable. Fix seat height and monitor level first, then add sit-stand later.

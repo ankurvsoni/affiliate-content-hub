@@ -24,10 +24,14 @@ Under $500, comfort has to win. Put money into chair fit and monitor height befo
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **BestOffice Ergonomic Mid-Back Chair** — $38.98 · 4.3 out of 5 · (62,481) · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)
-- **HUANUO Single Arm 13-34** — $39.99 · 4.6 out of 5 · (7,075) · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)
-- **Quntis Monitor Light Bar** — $39.95 · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
-- **Aothia Leather Desk Pad 31.5x15.7** — $13.99 · 4.6 out of 5 · (75,666) · [Check on Amazon](https://www.amazon.com/dp/B082F5CMGG/?tag=triedandtr0d5-20)
+- **BestOffice Ergonomic Mid-Back Chair** — $38.98 · 4.3 out of 5 · (62,481) · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)  
+  Cheap entry point. Tradeoff: long-session comfort can vary a lot by body type.
+- **HUANUO Single Arm 13-34** — $39.99 · 4.6 out of 5 · (7,075) · [Check on Amazon](https://www.amazon.com/dp/B08FB7WFCT/?tag=triedandtr0d5-20)  
+  Big posture upgrade for not much money. Tradeoff: desk-edge compatibility can kill the install.
+- **Quntis Monitor Light Bar** — $39.95 · 4.6 out of 5 · (15,426) · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)  
+  Great for screen-heavy days. Tradeoff: angle tuning matters or glare gets annoying fast.
+- **Aothia Leather Desk Pad 31.5x15.7** — $13.99 · 4.6 out of 5 · (75,666) · [Check on Amazon](https://www.amazon.com/dp/B082F5CMGG/?tag=triedandtr0d5-20)  
+  Low-cost cleanup and smoother mousing. Tradeoff: this is polish, not a core ergonomic fix.
 
 ## Who should skip this
 Skip a full refresh if you are changing rooms soon. Buy only portable pieces you can carry to the next setup.
@@ -38,9 +42,9 @@ Skip a full refresh if you are changing rooms soon. Buy only portable pieces you
 - Skipping return-window testing
 
 ## Budget tiers
-- **Entry:** fix one bottleneck now
-- **Mid:** solve posture + workspace flow
-- **Premium:** buy for durability and lower maintenance
+- **$100–$180 (starter rescue):** monitor height fix + mouse comfort + basic lighting.
+- **$180–$320 (most practical):** add one ergonomic anchor (chair or arm) plus cable cleanup.
+- **$320–$500 (complete budget stack):** chair + monitor setup + light + workflow accessories with fewer compromises.
 
 ## FAQ
 ### What gives the fastest improvement?

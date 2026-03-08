@@ -24,9 +24,12 @@ Chair marketing is noisy. What actually matters under $500 is seat depth, lumbar
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
-- **BestOffice Ergonomic Mid-Back Chair** — $38.98 · 4.3 out of 5 · (62,481) · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)
-- **BestOffice Ergonomic Mesh Chair** — $37.99 · 4.3 out of 5 · (51,695) · [Check on Amazon](https://www.amazon.com/dp/B0147WIC7E/?tag=triedandtr0d5-20)
-- **Ergonomic Office Chair 2026 Listing** — $99.99 · 5 out of 5 · (15) · [Check on Amazon](https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20)
+- **BestOffice Ergonomic Mid-Back Chair** — $38.98 · 4.3 out of 5 · (62,481) · [Check on Amazon](https://www.amazon.com/dp/B00FS3VJAO/?tag=triedandtr0d5-20)  
+  Good for temporary or secondary desks. Tradeoff: expect faster wear if you sit 8+ hours daily.
+- **BestOffice Ergonomic Mesh Chair** — $37.99 · 4.3 out of 5 · (51,695) · [Check on Amazon](https://www.amazon.com/dp/B0147WIC7E/?tag=triedandtr0d5-20)  
+  Better airflow in warm rooms. Tradeoff: mesh feel is not equally comfortable for everyone.
+- **Ergonomic Office Chair 2026 Listing** — $99.99 · 5 out of 5 · (15) · [Check on Amazon](https://www.amazon.com/dp/B0G6D37MRS/?tag=triedandtr0d5-20)  
+  Promising spec/value profile. Tradeoff: low review depth means higher uncertainty vs older listings.
 
 ## Who should skip this
 Skip this category if your desk is too high and fixed. A great chair cannot save bad desk geometry.
@@ -37,9 +40,9 @@ Skip this category if your desk is too high and fixed. A great chair cannot save
 - Ignoring return and warranty terms
 
 ## Budget tiers
-- **Entry:** fix one bottleneck now
-- **Mid:** solve posture + workspace flow
-- **Premium:** buy for durability and lower maintenance
+- **$80–$180:** starter ergonomic fixes, best for short sessions or temporary setups.
+- **$180–$320:** better adjustability and comfort for full workdays.
+- **$320–$500:** stronger mechanisms and better long-term value if fit is correct.
 
 ## FAQ
 ### What gives the fastest improvement?
