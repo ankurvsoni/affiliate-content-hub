@@ -27,9 +27,32 @@ export default function AllGuidesPage() {
     'writesonic-review',
   ];
 
+  const allowed = new Set([
+    'easter-basket-fillers-amazon',
+    'dry-shampoo-best-amazon',
+    'best-workout-sets-women-amazon',
+    'best-sandals-women-amazon',
+    'best-vacuum-cleaners-home-amazon',
+    'needoh-nice-cube-worth-it',
+    'best-fidget-toys-like-needoh',
+    'best-boneless-couch-amazon',
+    'best-dresses-for-women-amazon',
+    'best-st-patricks-day-shirts-women',
+    'best-standing-desk-solopreneurs',
+    'desk-setup-under-500-solopreneurs',
+    'best-ergonomic-chair-under-500-solopreneurs',
+    'monitor-arm-vs-monitor-riser-solopreneurs',
+    'best-cable-management-kits-desk',
+    'monitor-light-bar-vs-desk-lamp-eye-strain',
+    'best-vertical-mouse-solopreneurs',
+    'desk-setup-under-1000-solopreneurs',
+    'best-desk-accessories-actually-useful',
+    'walking-pad-standing-desk-worth-it',
+  ]);
+
   const pages = getAllPages()
     .filter((p) => p.slug && p.title)
-    .filter((p) => !blocked.includes(p.slug))
+    .filter((p) => allowed.has(p.slug))
     .sort((a, b) => a.title.localeCompare(b.title));
   return (
     <main className="wrap">
