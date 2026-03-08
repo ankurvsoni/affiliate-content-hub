@@ -2,12 +2,12 @@ import './globals.css';
 import Link from 'next/link';
 
 export const metadata = {
-  metadataBase: new URL('https://www.orkolabs.com'),
-  title: 'Orko Labs — Reviews, ROI Calculators & Digital Tools',
+  metadataBase: new URL('https://reviews.orkolabs.com'),
+  title: 'Affiliate Content Hub — Product Reviews & Buying Guides',
   description:
-    'Practical product reviews, AI tool ROI calculators, and digital tools. Compare options with clear tradeoffs, budget tiers, and transparent recommendations.',
+    'Buyer-focused product reviews and buying guides with clear tradeoffs, budget tiers, and practical recommendations.',
   alternates: {
-    canonical: 'https://www.orkolabs.com/',
+    canonical: 'https://reviews.orkolabs.com/',
   },
 };
 
@@ -24,9 +24,10 @@ export default function RootLayout({ children }) {
       <body>
         <header className="siteHeader">
           <div className="wrap navRow">
-            <Link href="/" className="brand">Orko Labs</Link>
+            <Link href="/" className="brand">Affiliate Content Hub</Link>
             <nav className="topNav">
               <a href="https://www.orkolabs.com">All Projects</a>
+              <Link href="/all-guides">All Guides</Link>
               <Link href="/how-we-test">How we test</Link>
               <Link href="/editorial-policy">Editorial policy</Link>
               <Link href="/disclosure">Disclosure</Link>
