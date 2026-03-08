@@ -30,7 +30,7 @@ export default async function ContentPage({ params }) {
 
       <section className="cta">
         <strong>Quick next step</strong>
-        <p>Open your top 2 options side-by-side, run the same prompt in both, and choose the one needing less rewrite.</p>
+        <p>Open your top 2 options side-by-side, compare recent reviews and return policy, and pick the one with fewer recurring complaints.</p>
         <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">Check official pricing</a>
       </section>
 
