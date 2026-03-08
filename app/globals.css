@@ -71,3 +71,24 @@ footer{color:var(--muted);font-size:13px;margin:30px 0 10px}
 
 .pickThumb{width:100%;max-width:140px;aspect-ratio:1/1;object-fit:contain;background:#fff;border:1px solid #eee;border-radius:10px;padding:6px;margin-bottom:8px}
 .topPicks li{position:relative}
+
+
+/* Mobile/header polish */
+.navRow{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.brand{font-weight:800;line-height:1.05}
+.topNav{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+.topNav a{white-space:nowrap}
+.affiliateBar{display:flex;justify-content:center;gap:6px;flex-wrap:wrap;padding:8px 12px}
+
+/* Product media fallback */
+.pickMedia{width:140px;height:140px;border:1px solid #eee;border-radius:10px;background:#f8f8f8;display:grid;place-items:center;margin-bottom:8px;position:relative;overflow:hidden}
+.pickMedia::after{content:'Product image';font-size:12px;color:#777}
+.pickMedia.loaded::after{display:none}
+.pickMedia.failed{background:#f4f4f4}
+.pickThumb{width:100%;height:100%;object-fit:contain;background:#fff;border:none;border-radius:0;padding:4px;margin:0}
+
+@media (max-width: 800px){
+  .navRow{align-items:flex-start;flex-direction:column}
+  .topNav{gap:10px}
+  .affiliateBar{font-size:12px}
+}
