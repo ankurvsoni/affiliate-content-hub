@@ -1,60 +1,77 @@
 import Link from 'next/link';
 
+const featuredGuides = [
+  {
+    slug: 'best-standing-desk-solopreneurs',
+    title: 'Best Standing Desk for Solopreneurs',
+    desc: 'Stability, depth, and budget tradeoffs before you buy.',
+  },
+  {
+    slug: 'desk-setup-under-500-solopreneurs',
+    title: 'Desk Setup Under $500',
+    desc: 'A practical starter setup focused on comfort-per-dollar.',
+  },
+  {
+    slug: 'best-ergonomic-chair-under-500-solopreneurs',
+    title: 'Best Ergonomic Chair Under $500',
+    desc: 'Fit checks, durability signals, and skip conditions.',
+  },
+  {
+    slug: 'monitor-arm-vs-monitor-riser-solopreneurs',
+    title: 'Monitor Arm vs Monitor Riser',
+    desc: 'Which one actually fixes neck strain on small desks.',
+  },
+  {
+    slug: 'best-cable-management-kits-desk',
+    title: 'Best Cable Management Kits',
+    desc: 'Low-friction cable cleanup methods that hold up over time.',
+  },
+  {
+    slug: 'best-desk-accessories-actually-useful',
+    title: 'Desk Accessories That Are Actually Useful',
+    desc: 'No fluff: only accessories that remove daily friction.',
+  },
+];
+
 export default function HomePage() {
   return (
     <main className="wrap">
       <div className="top">
-        <div className="badge">Orko Labs</div>
-        <div className="badge">Digital asset studio</div>
+        <div className="badge">Affiliate Content Hub</div>
+        <div className="badge">reviews.orkolabs.com</div>
       </div>
 
       <section className="hero">
-        <h1>Orko Labs Projects</h1>
+        <h1>Product Reviews & Buying Guides</h1>
         <p>
-          We build practical digital assets focused on automation, decision tools,
-          and compounding internet distribution.
+          Human-style affiliate content focused on real tradeoffs, budget tiers,
+          and practical recommendations for solopreneurs.
         </p>
       </section>
 
       <section>
-        <h2 className="section-title">Live Projects</h2>
+        <h2 className="section-title">Featured Guides</h2>
         <div className="grid">
-          <a className="card" href="https://roi.orkolabs.com" target="_blank" rel="noopener noreferrer">
-            <h3>AI Tool ROI Calculators</h3>
-            <p>Estimate software cost, monthly savings, payback period, and break-even outcomes.</p>
-          </a>
-
-          <a className="card" href="https://recon.orkolabs.com" target="_blank" rel="noopener noreferrer">
-            <h3>Invoice Reconciliation Utility</h3>
-            <p>Match bank and invoice CSV files locally, review uncertain records, and export clean results.</p>
-          </a>
-
-          <a className="card" href="https://www.orkolabs.com/tools" target="_blank" rel="noopener noreferrer">
-            <h3>AI Writing Tools Hub</h3>
-            <p>Comparisons, alternatives, and review guides for AI writing workflows.</p>
-          </a>
-
-          <a className="card" href="https://cricket.orkolabs.com" target="_blank" rel="noopener noreferrer">
-            <h3>ABCD Cricket</h3>
-            <p>2-player turn-based ABCD cricket game for quick local matches.</p>
-          </a>
-
-          <a className="card" href="https://reviews.orkolabs.com" target="_blank" rel="noopener noreferrer">
-            <h3>Affiliate Content Hub</h3>
-            <p>Product buying guides and comparison content with transparent tradeoffs and budget tiers.</p>
-          </a>
+          {featuredGuides.map((g) => (
+            <Link key={g.slug} className="card" href={`/pages/${g.slug}`}>
+              <h3>{g.title}</h3>
+              <p>{g.desc}</p>
+            </Link>
+          ))}
         </div>
       </section>
 
       <section>
-        <h2 className="section-title">Standards</h2>
+        <h2 className="section-title">Editorial Promise</h2>
         <div className="notice">
-          Clear disclosures, transparent methodology, and low-maintenance systems-first execution.
+          We include clear pros/cons, “who should skip this,” common mistakes,
+          and budget recommendations in every guide.
         </div>
       </section>
 
       <footer>
-        Built by Orko Labs · <Link href="/about">About</Link> · <Link href="/editorial-policy">Editorial policy</Link>
+        Affiliate disclosure in every post · <Link href="/editorial-policy">Editorial policy</Link> ·{' '}
+        <Link href="/disclosure">Disclosure</Link>
       </footer>
     </main>
   );
