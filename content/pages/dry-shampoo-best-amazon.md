@@ -25,17 +25,17 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 
 ## Top picks (live snapshot)
 - **Dry shampoo for oily roots** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)  
-  What it is: Batiste Original Dry Shampoo, 6.76 OZ / 200ml , Powder, Oily Hair, Oil Control, Citrusy Scent. One 6.35 oz Batiste Original Fragrance Dry Shampoo Bottle
+  What it is: A dry shampoo option listed on Amazon (Dry shampoo for oily roots).
   Best for: fast refresh between washes and oily roots.
   Why pick: saves time when full wash is not practical.
   Watchout: Strong oil control can leave more visible residue.
 - **Dry shampoo for dark hair** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)  
-  What it is: Batiste Dry Shampoo for Dark Hair, 3.81 oz. Dark and Deep Brown
+  What it is: A dry shampoo option listed on Amazon (Dry shampoo for dark hair).
   Best for: fast refresh between washes and oily roots.
   Why pick: saves time when full wash is not practical.
   Watchout: Tinted formulas can transfer onto light fabrics.
 - **Unscented dry shampoo options** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)  
-  What it is: Batiste Dry Shampoo, Original Fragrance Classic Clean, Refresh Hair and Absorb Oil Between Washes, Waterless Shampoo for Added Hair Texture and Body, 5.71 oz. A CULT C...
+  What it is: A dry shampoo option listed on Amazon (Unscented dry shampoo options).
   Best for: fast refresh between washes and oily roots.
   Why pick: saves time when full wash is not practical.
   Watchout: Unscented options may have weaker odor masking.

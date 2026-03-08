@@ -25,17 +25,17 @@ NeeDoh Nice Cube can be worth it if texture feel is your priority, but listing q
 
 ## Top picks (live snapshot)
 - **NeeDoh Nice Cube listings** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)  
-  What it is: Schylling NeeDoh Nice Cube -Sensory Squeeze Toy with Super Solid Squish - 2.25&#34; Cube. Bring chill vibes with you everywhere with a squeeze of the Nice Cube!
+  What it is: A sensory/fidget product option listed on Amazon (NeeDoh Nice Cube listings).
   Best for: sensory toy buyers comparing texture and durability.
   Why pick: popular trend item with clear alternatives.
   Watchout: Popular sensory pick; counterfeit/quality variance risk on mixed listings.
 - **Alternative sensory stress toys** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DJ1NTQXZ/?tag=triedandtr0d5-20)  
-  What it is: Schylling Needoh Nice Cube Sensory Toy with a Super Solid Squish - Colors May Vary 3 Pack. Premium Material: Made from high-quality, non-toxic silicone that&#39;s safe...
+  What it is: A sensory/fidget product option listed on Amazon (Alternative sensory stress toys).
   Best for: sensory toy buyers comparing texture and durability.
   Why pick: popular trend item with clear alternatives.
   Watchout: Lower-cost alternatives often differ in texture quality.
 - **Fidget toy bundles** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0CLB7MQVM/?tag=triedandtr0d5-20)  
-  What it is: Nice Cube Translucent NeeDoh...Groovy Glob! Squishy, Squeezy, Popping, Stretchy Stress Fidget Cubes Blue Crew Gift Set Party Bundle with Storage Bag - 3 Pack (Blue). G...
+  What it is: A sensory/fidget product option listed on Amazon (Fidget toy bundles).
   Best for: sensory toy buyers comparing texture and durability.
   Why pick: popular trend item with clear alternatives.
   Watchout: Bundles can include filler items with low repeat use.

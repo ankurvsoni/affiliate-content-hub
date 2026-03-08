@@ -25,17 +25,17 @@ If you walk more than 30 minutes a day, comfort geometry matters more than style
 
 ## Top picks (live snapshot)
 - **Walking sandals women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B08P2MW7D1/?tag=triedandtr0d5-20)  
-  What it is: ALEADER Black Flat Sandals for Women, Ladies Comfortable Summer Sandals Water Hiking Shoes, All Black, 11 US
+  What it is: A women’s sandal option listed on Amazon (Walking sandals women).
   Best for: walking comfort and daily warm-weather wear.
   Why pick: easy style + comfort options across budgets.
   Watchout: Softer footbeds may wear down faster.
 - **Dress sandals women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)  
-  What it is: ForeMode Strappy Peep Toe Heeled Sandals for Women - Elegant and Comfortable Dress Shoes for Evening Party and Ballroom Dancing
+  What it is: A women’s sandal option listed on Amazon (Dress sandals women).
   Best for: walking comfort and daily warm-weather wear.
   Why pick: easy style + comfort options across budgets.
   Watchout: Style-first picks can compromise all-day comfort.
 - **Arch support sandals women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)  
-  What it is: Crocs Women&#39;s Tulum Toe Post Sandals, Fuchsia Fun/Tan, 8 Women
+  What it is: A women’s sandal option listed on Amazon (Arch support sandals women).
   Best for: walking comfort and daily warm-weather wear.
   Why pick: easy style + comfort options across budgets.
   Watchout: Support claims vary a lot by foot shape.
