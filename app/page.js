@@ -38,6 +38,11 @@ export default function HomePage() {
             <h3>ABCD Cricket</h3>
             <p>2-player turn-based ABCD cricket game for quick local matches.</p>
           </a>
+
+          <a className="card" href="https://reviews.orkolabs.com" target="_blank" rel="noopener noreferrer">
+            <h3>Affiliate Content Hub</h3>
+            <p>Product buying guides and comparison content with transparent tradeoffs and budget tiers.</p>
+          </a>
         </div>
       </section>
 
