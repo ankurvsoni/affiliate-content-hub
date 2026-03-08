@@ -33,6 +33,9 @@ export default function RootLayout({ children }) {
             </nav>
           </div>
         </header>
+        <div className="affiliateBar">
+          As an Amazon Associate I earn from qualifying purchases. <Link href="/disclosure">Learn more</Link>
+        </div>
         {children}
       </body>
     </html>

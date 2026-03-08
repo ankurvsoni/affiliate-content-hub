@@ -37,6 +37,8 @@ a{color:#222;text-decoration:none}a:hover{text-decoration:underline}
 }
 .wrap{max-width:1120px;margin:0 auto;padding:24px}
 .siteHeader{position:sticky;top:0;background:#fffffff2;backdrop-filter:blur(8px);border-bottom:1px solid var(--border);z-index:20}
+.affiliateBar{position:sticky;top:59px;z-index:19;padding:8px 16px;text-align:center;font-size:13px;background:#fff7db;border-bottom:1px solid #f3e6a4;color:#6b5600}
+.affiliateBar a{color:#6b5600;text-decoration:underline;font-weight:600}
 .navRow{display:flex;justify-content:space-between;align-items:center;padding-top:14px;padding-bottom:14px}
 .brand{font-weight:700;color:#111}.topNav{display:flex;gap:18px;font-size:14px}
 .top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
