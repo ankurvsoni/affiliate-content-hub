@@ -10,7 +10,15 @@ export async function generateStaticParams() {
 export default async function ContentPage({ params }) {
   const page = getPageBySlug(params.slug);
   const isPilotStyle = page?.slug === 'easter-basket-fillers-amazon';
+
+  const sectionAnchor = (id, label) => <a href={`#${id}`}>{label}</a>;
   if (!page) return notFound();
+
+  const anchoredHtml = page.html
+    .replace('<h2>Top picks (live snapshot)</h2>', '<h2 id="top-picks">Top picks (live snapshot)</h2>')
+    .replace('<h2>Comparison table</h2>', '<h2 id="comparison-table">Comparison table</h2>')
+    .replace('<h2>Who should skip this</h2>', '<h2 id="who-should-skip-this">Who should skip this</h2>')
+    .replace('<h2>FAQ</h2>', '<h2 id="faq">FAQ</h2>');
 
   const productMatch = page.html.match(/https:\/\/www\.amazon\.com\/dp\/[A-Z0-9]{10}\/\?tag=[^"'\s<)]+/i);
   const ctaUrl = productMatch?.[0] || getAffiliateUrlForSlug(page.slug);
