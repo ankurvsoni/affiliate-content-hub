@@ -26,6 +26,7 @@ export default function RootLayout({ children }) {
           <div className="wrap navRow">
             <Link href="/" className="brand">Orko Labs</Link>
             <nav className="topNav">
+              <a href="https://www.orkolabs.com">All Projects</a>
               <Link href="/how-we-test">How we test</Link>
               <Link href="/editorial-policy">Editorial policy</Link>
               <Link href="/disclosure">Disclosure</Link>
