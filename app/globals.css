@@ -1,6 +1,18 @@
 :root{--bg:#f7f7f7;--panel:#ffffff;--text:#222222;--muted:#6a6a6a;--brand:#ff385c;--border:#ebebeb}
 *{box-sizing:border-box} body{margin:0;font-family:Circular,Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
 a{color:#222;text-decoration:none}a:hover{text-decoration:underline}
+
+/* Make in-article affiliate links clearly visible */
+.container a:not(.btn){
+  color:#c81e4f;
+  text-decoration:underline;
+  text-underline-offset:2px;
+  font-weight:600;
+}
+.container a:not(.btn):hover{
+  color:#a50f3c;
+  text-decoration-thickness:2px;
+}
 .wrap{max-width:1120px;margin:0 auto;padding:24px}
 .siteHeader{position:sticky;top:0;background:#fffffff2;backdrop-filter:blur(8px);border-bottom:1px solid var(--border);z-index:20}
 .navRow{display:flex;justify-content:space-between;align-items:center;padding-top:14px;padding-bottom:14px}
