@@ -22,17 +22,21 @@ export default async function ContentPage({ params }) {
         <span className="pill">{page.primary_keyword}</span>
       </div>
 
-      <div className="notice">
-        Editorial note: We focus on real workflow fit and clear tradeoffs. As an Amazon Associate I earn from qualifying purchases.
-      </div>
+      {hasAmazonLinks && (
+        <div className="notice">
+          Editorial note: We focus on real workflow fit and clear tradeoffs. As an Amazon Associate I earn from qualifying purchases.
+        </div>
+      )}
 
       <article className="container" dangerouslySetInnerHTML={{ __html: page.html }} />
 
-      <section className="cta">
-        <strong>Quick next step</strong>
-        <p>Open your top 2 options side-by-side, compare recent reviews and return policy, and pick the one with fewer recurring complaints.</p>
-        <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">Check current price on Amazon</a>
-      </section>
+      {hasAmazonLinks && (
+        <section className="cta">
+          <strong>Quick next step</strong>
+          <p>Open your top 2 options side-by-side, compare recent reviews and return policy, and pick the one with fewer recurring complaints.</p>
+          <a className="btn" href={ctaUrl} target="_blank" rel="nofollow sponsored noopener">Check current price on Amazon</a>
+        </section>
+      )}
 
       <footer>
         Last reviewed: {page.last_updated} · <Link href="/disclosure">Affiliate disclosure</Link>
