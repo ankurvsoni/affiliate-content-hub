@@ -24,19 +24,19 @@ Seasonal shirts are easy wins if print quality and fit are reliable. Buy from li
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **St. Patrick’s shirts women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07NS8XWGK/?tag=triedandtr0d5-20)  
+- **St. Patrick’s shirts women** — [Check on Amazon](https://www.amazon.com/dp/B07NS8XWGK/?tag=triedandtr0d5-20)
   Women&#39;s St Patricks Day tee Glitter Shamrock Shirt Cute St Patty&#39;s Day t-Shirt St Patty&#39;s Day Outfit.
   Best for: seasonal buyers wanting one-event low-regret picks.
   What stands out: quick purchase category with high listing variance.
   Before you buy: Great seasonal variety, but print durability varies.
   Skip this if: you need zero-guesswork fit and no return friction.
-- **Funny St. Patrick’s tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GC9NNFXM/?tag=triedandtr0d5-20)  
+- **Funny St. Patrick’s tees** — [Check on Amazon](https://www.amazon.com/dp/B0GC9NNFXM/?tag=triedandtr0d5-20)
   St Patricks Day Shirt Women: Funny Saint Patricks Day Shirts Cute Shamrock Tshirt Irish Graphic Tee Tops.
   Best for: seasonal buyers wanting one-event low-regret picks.
   What stands out: quick purchase category with high listing variance.
   Before you buy: Novelty prints can crack after a few washes.
   Skip this if: you need zero-guesswork fit and no return friction.
-- **Shamrock graphic tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0G2BPY27L/?tag=triedandtr0d5-20)  
+- **Shamrock graphic tees** — [Check on Amazon](https://www.amazon.com/dp/B0G2BPY27L/?tag=triedandtr0d5-20)
   Women&#39;s St. Patrick&#39;s Day Shirt - St. Paddy&#39;s Day Front and Back Double-Sided Shamrock Graphic Tees 1 Piece.
   Best for: seasonal buyers wanting one-event low-regret picks.
   What stands out: quick purchase category with high listing variance.

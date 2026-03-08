@@ -24,19 +24,19 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Dry shampoo for oily roots** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)  
+- **Dry shampoo for oily roots** — [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
   Batiste Original Dry Shampoo, 6.76 OZ / 200ml , Powder, Oily Hair, Oil Control, Citrusy Scent. One 6.35 oz Batiste Original Fragrance Dry Shampoo Bottle.
   Best for: fast refresh between washes and oily roots.
   What stands out: saves time when full wash is not practical.
   Before you buy: Strong oil control can leave more visible residue.
   Skip this if: you need zero-guesswork fit and no return friction.
-- **Dry shampoo for dark hair** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)  
+- **Dry shampoo for dark hair** — [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
   Batiste Dry Shampoo for Dark Hair, 3.81 oz. A quick burst revitalizes hair and removes any excess grease.
   Best for: fast refresh between washes and oily roots.
   What stands out: saves time when full wash is not practical.
   Before you buy: Tinted formulas can transfer onto light fabrics.
   Skip this if: you need zero-guesswork fit and no return friction.
-- **Unscented dry shampoo options** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)  
+- **Unscented dry shampoo options** — [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
   Batiste Dry Shampoo, Original Fragrance Classic Clean, Refresh Hair and Absorb Oil Between Washes, Waterless Shampoo for Added Hair Texture and Body, 5.71 oz.
   Best for: fast refresh between washes and oily roots.
   What stands out: saves time when full wash is not practical.

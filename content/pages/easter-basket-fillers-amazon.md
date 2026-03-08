@@ -24,19 +24,19 @@ For Easter basket fillers, variety matters less than age-fit and repeat-use valu
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Easter basket fillers (general)** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DSBC928F/?tag=triedandtr0d5-20)  
+- **Easter basket fillers (general)** — [Check on Amazon](https://www.amazon.com/dp/B0DSBC928F/?tag=triedandtr0d5-20)
   Easter Egg Fillers, Basket Stuffers for Teens Kids - 48Pcs Sticky Toys Hands Party Favors with Bunny Chick, Pinata Stuffers, Easter Gifts Hunt Games Supplies,...
   Best for: gift buyers who want low-regret fillers by age.
   What stands out: strong variety with quick comparison potential.
   Before you buy: Fast variety, quality varies by listing freshness.
   Skip this if: you need zero-guesswork fit and no return friction.
-- **NeeDoh-style fidget picks** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)  
+- **NeeDoh-style fidget picks** — [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
   Schylling NeeDoh Nice Cube -Sensory Squeeze Toy with Super Solid Squish - 2.25&#34; Cube. Bring chill vibes with you everywhere with a squeeze of the Nice Cube!.
   Best for: gift buyers who want low-regret fillers by age.
   What stands out: strong variety with quick comparison potential.
   Before you buy: Trending sensory items can sell out quickly.
   Skip this if: you need zero-guesswork fit and no return friction.
-- **Easter candy assortments** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)  
+- **Easter candy assortments** — [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)
   Easter Basket Stuffers - Premade Easter Baskets for Kids - 24 Pack Sensory Fidget Toys Set with Grass - Pop Gifts for Toddlers Teens Girls Boys.
   Best for: gift buyers who want low-regret fillers by age.
   What stands out: strong variety with quick comparison potential.
