@@ -24,11 +24,11 @@ For dresses, fit reliability matters more than photo styling. Filter by recent r
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **Casual dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=casual+dresses+for+women&tag=triedandtr0d5-20)  
+- **Casual dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GKFV3XSX/?tag=triedandtr0d5-20)  
   Tradeoff: Low prices can mean thinner fabric than photos suggest.
-- **Work dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=work+dresses+for+women&tag=triedandtr0d5-20)  
+- **Work dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DS8T7DDD/?tag=triedandtr0d5-20)  
   Tradeoff: Sizing and lining quality vary heavily by brand.
-- **Vacation dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=vacation+dresses+for+women&tag=triedandtr0d5-20)  
+- **Vacation dresses for women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GJCSVMNH/?tag=triedandtr0d5-20)  
   Tradeoff: Lightweight fabrics can wrinkle quickly in travel.
 
 ## Who should skip this

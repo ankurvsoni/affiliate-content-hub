@@ -24,11 +24,11 @@ A boneless couch can be great for small-space lounging, but support retention an
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **Boneless couch options** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=boneless+couch&tag=triedandtr0d5-20)  
+- **Boneless couch options** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0FC2DPSPC/?tag=triedandtr0d5-20)  
   Tradeoff: Comfort is strong; support can soften over time.
-- **Modular floor couches** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=modular+floor+couch&tag=triedandtr0d5-20)  
+- **Modular floor couches** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DRNLS78L/?tag=triedandtr0d5-20)  
   Tradeoff: Great flexibility but can take more floor space than expected.
-- **Washable floor loungers** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=washable+floor+lounger&tag=triedandtr0d5-20)  
+- **Washable floor loungers** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DLJZFMRT/?tag=triedandtr0d5-20)  
   Tradeoff: Washability claims vary by cover construction.
 
 ## Who should skip this

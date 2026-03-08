@@ -24,11 +24,11 @@ Vacuum choice should start with floor type and pet hair load, not just peak suct
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Vacuum cleaners for home** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=vacuum+cleaners+for+home&tag=triedandtr0d5-20)  
+- **Vacuum cleaners for home** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B09DJJQGCN/?tag=triedandtr0d5-20)  
   Tradeoff: Strong suction can mean louder operation.
-- **Vacuum for pet hair** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=vacuum+for+pet+hair&tag=triedandtr0d5-20)  
+- **Vacuum for pet hair** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D7LVQY7N/?tag=triedandtr0d5-20)  
   Tradeoff: Anti-tangle claims vary in real use.
-- **Lightweight vacuum cleaners** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=lightweight+vacuum+cleaner&tag=triedandtr0d5-20)  
+- **Lightweight vacuum cleaners** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DGX2C784/?tag=triedandtr0d5-20)  
   Tradeoff: Lighter models may have smaller bins and battery limits.
 
 ## Who should skip this

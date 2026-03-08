@@ -24,11 +24,11 @@ NeeDoh Nice Cube can be worth it if texture feel is your priority, but listing q
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **NeeDoh Nice Cube listings** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=NeeDoh+nice+cube&tag=triedandtr0d5-20)  
+- **NeeDoh Nice Cube listings** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)  
   Tradeoff: Popular sensory pick; counterfeit/quality variance risk on mixed listings.
-- **Alternative sensory stress toys** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=sensory+stress+toys+fidget&tag=triedandtr0d5-20)  
+- **Alternative sensory stress toys** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DJ1NTQXZ/?tag=triedandtr0d5-20)  
   Tradeoff: Lower-cost alternatives often differ in texture quality.
-- **Fidget toy bundles** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=fidget+toy+bundle&tag=triedandtr0d5-20)  
+- **Fidget toy bundles** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0CLB7MQVM/?tag=triedandtr0d5-20)  
   Tradeoff: Bundles can include filler items with low repeat use.
 
 ## Who should skip this

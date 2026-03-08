@@ -24,11 +24,11 @@ Seasonal shirts are easy wins if print quality and fit are reliable. Buy from li
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **St. Patrick’s shirts women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=st+patricks+day+shirt+women&tag=triedandtr0d5-20)  
+- **St. Patrick’s shirts women** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07NS8XWGK/?tag=triedandtr0d5-20)  
   Tradeoff: Great seasonal variety, but print durability varies.
-- **Funny St. Patrick’s tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=funny+st+patricks+day+shirt+women&tag=triedandtr0d5-20)  
+- **Funny St. Patrick’s tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GC9NNFXM/?tag=triedandtr0d5-20)  
   Tradeoff: Novelty prints can crack after a few washes.
-- **Shamrock graphic tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=shamrock+shirt+women&tag=triedandtr0d5-20)  
+- **Shamrock graphic tees** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0G2BPY27L/?tag=triedandtr0d5-20)  
   Tradeoff: Fit consistency differs across sellers.
 
 ## Who should skip this

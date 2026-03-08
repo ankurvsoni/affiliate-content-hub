@@ -24,11 +24,11 @@ For fidget alternatives, durability and feel consistency beat novelty. Cheap set
 | Premium picks | Better materials/finish | Lower value per dollar |
 
 ## Top picks (live snapshot)
-- **NeeDoh alternatives** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=needoh+alternatives&tag=triedandtr0d5-20)  
+- **NeeDoh alternatives** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DV4BD3H2/?tag=triedandtr0d5-20)  
   Tradeoff: Some alternatives feel firmer/softer than expected.
-- **Squishy stress balls** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=squishy+stress+balls&tag=triedandtr0d5-20)  
+- **Squishy stress balls** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0D9ZTW7PS/?tag=triedandtr0d5-20)  
   Tradeoff: Cheaper foam can break down quickly with heavy use.
-- **Desk fidget toys** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=desk+fidget+toys&tag=triedandtr0d5-20)  
+- **Desk fidget toys** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DSCS11R1/?tag=triedandtr0d5-20)  
   Tradeoff: Not all are quiet enough for shared spaces.
 
 ## Who should skip this

@@ -24,11 +24,11 @@ For Easter basket fillers, variety matters less than age-fit and repeat-use valu
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Easter basket fillers (general)** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=easter+basket+fillers&tag=triedandtr0d5-20)  
+- **Easter basket fillers (general)** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0CRSXYRGH/?tag=triedandtr0d5-20)  
   Tradeoff: Fast variety, quality varies by listing freshness.
-- **NeeDoh-style fidget picks** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=NeeDoh+nice+cube&tag=triedandtr0d5-20)  
+- **NeeDoh-style fidget picks** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)  
   Tradeoff: Trending sensory items can sell out quickly.
-- **Easter candy assortments** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=easter+candy+assortment&tag=triedandtr0d5-20)  
+- **Easter candy assortments** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)  
   Tradeoff: Price-per-item can be worse than local store deals.
 
 ## Who should skip this

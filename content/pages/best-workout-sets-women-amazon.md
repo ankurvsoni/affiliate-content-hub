@@ -24,11 +24,11 @@ Comfort and fabric recovery beat trendy cuts. If you train regularly, poor stitc
 | Premium picks | Better finish and consistency | Smaller value-per-dollar jump |
 
 ## Top picks (live snapshot)
-- **Workout sets women matching** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=workout+sets+for+women&tag=triedandtr0d5-20)  
+- **Workout sets women matching** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0FCT3XL2F/?tag=triedandtr0d5-20)  
   Tradeoff: Looks good online, sizing consistency varies by seller.
-- **High support sets** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=high+support+workout+set+women&tag=triedandtr0d5-20)  
+- **High support sets** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)  
   Tradeoff: Higher compression can feel restrictive in long sessions.
-- **Budget gym sets** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/s?k=budget+workout+set+women&tag=triedandtr0d5-20)  
+- **Budget gym sets** — Price on Amazon · rating varies by listing · [Check on Amazon](https://www.amazon.com/dp/B0GQH4C5WH/?tag=triedandtr0d5-20)  
   Tradeoff: Lower cost often means less durable stitching.
 
 ## Who should skip this
