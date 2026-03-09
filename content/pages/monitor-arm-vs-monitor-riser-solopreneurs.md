@@ -27,18 +27,18 @@ Small desk and neck strain? Start with a monitor arm. Deep desk and zero install
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **NB North Bayou Monitor Mount  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B01AI2YGK4/?tag=triedandtr0d5-20)
-  What it is: a monitor positioning option (arm or stand) for better eye-level ergonomics and desk space.
-  Best for: users fixing neck/shoulder posture issues caused by low or fixed monitor height.
-  What stands out: range-of-motion stability and anti-sag behavior decide long-term usability.
-  Before you buy: verify VESA support, monitor weight limits, and desk-edge/mount compatibility before buying.
-  Skip this if: your desk cannot safely handle clamp pressure or you need ultra-frequent monitor repositioning.
-- **Amazon Basics Single Monitor Stand  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B00MIBN16O/?tag=triedandtr0d5-20)
-  What it is: a monitor positioning option (arm or stand) for better eye-level ergonomics and desk space.
-  Best for: users fixing neck/shoulder posture issues caused by low or fixed monitor height.
-  What stands out: range-of-motion stability and anti-sag behavior decide long-term usability.
-  Before you buy: verify VESA support, monitor weight limits, and desk-edge/mount compatibility before buying.
-  Skip this if: your desk cannot safely handle clamp pressure or you need ultra-frequent monitor repositioning.
+- **NB North Bayou Monitor Mount  🟢** — Adjustable monitor-arm pick · [Check on Amazon](https://www.amazon.com/dp/B01AI2YGK4/?tag=triedandtr0d5-20)
+  What it is: a gas-spring style monitor arm for raising and repositioning a single display.
+  Best for: users who frequently switch posture or share desk setups and need flexible screen positioning.
+  What stands out: full adjustability (height/depth/tilt) can free desk space while improving eye-level alignment.
+  Before you buy: confirm VESA support, desk-edge clamp clearance, and monitor weight against arm limits.
+  Skip this if: your desk edge is fragile/blocked or you don’t want any installation effort.
+- **Amazon Basics Single Monitor Stand  🟢** — Simple monitor-riser/stand pick · [Check on Amazon](https://www.amazon.com/dp/B00MIBN16O/?tag=triedandtr0d5-20)
+  What it is: a fixed-height single-monitor stand focused on quick setup and basic elevation.
+  Best for: users who want immediate lift without clamp/mount installation complexity.
+  What stands out: cleaner setup process and lower install friction than arm-based mounts.
+  Before you buy: check stand footprint and under-stand clearance to ensure it fits your keyboard/accessory layout.
+  Skip this if: you need frequent monitor repositioning throughout the day.
 ## Who should skip this
 Skip monitor arms if your desk edge is curved, fragile, or blocked by a back panel. You will hate the install and probably return it.
 
