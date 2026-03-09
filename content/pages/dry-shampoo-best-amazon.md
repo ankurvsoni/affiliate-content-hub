@@ -29,22 +29,22 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 
 - **Batiste Original Dry Shampoo  🔴** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
   What it is: a dry-shampoo option intended to absorb oil between wash days.
-  Best for: busy routines needing fast root refresh without a full wash.
-  What stands out: quick refresh format focused on reducing visible oil at roots.
-  Before you buy: verify residue comments for your hair color and confirm fragrance strength from recent reviews.
-  Skip this if: you are highly fragrance-sensitive or require fully residue-free finish.
+  Best for: buyers who want practical value and lower return risk for this category.
+  What stands out: it’s positioned around everyday usability rather than one-time novelty.
+  Before you buy: check residue/scent feedback for your hair color and sensitivity profile before buying.
+  Skip this if: you are fragrance-sensitive or need fully residue-free finish every time.
 - **Batiste Dry Shampoo  🔴** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
   What it is: a dry-shampoo option intended to absorb oil between wash days.
-  Best for: busy routines needing fast root refresh without a full wash.
-  What stands out: quick refresh format focused on reducing visible oil at roots.
-  Before you buy: verify residue comments for your hair color and confirm fragrance strength from recent reviews.
-  Skip this if: you are highly fragrance-sensitive or require fully residue-free finish.
+  Best for: shoppers who prioritize fit/use-case clarity over trend-only styling.
+  What stands out: the format is straightforward to buy and easy to compare against alternatives.
+  Before you buy: check residue/scent feedback for your hair color and sensitivity profile before buying.
+  Skip this if: you are fragrance-sensitive or need fully residue-free finish every time.
 - **Batiste Dry Shampoo for Dark Hair  🔴** — Balanced confidence pick · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
   What it is: a dry-shampoo option intended to absorb oil between wash days.
-  Best for: busy routines needing fast root refresh without a full wash.
-  What stands out: quick refresh format focused on reducing visible oil at roots.
-  Before you buy: verify residue comments for your hair color and confirm fragrance strength from recent reviews.
-  Skip this if: you are highly fragrance-sensitive or require fully residue-free finish.
+  Best for: people balancing price, usability, and repeat-use potential.
+  What stands out: it covers a common buyer need without requiring premium pricing.
+  Before you buy: check residue/scent feedback for your hair color and sensitivity profile before buying.
+  Skip this if: you are fragrance-sensitive or need fully residue-free finish every time.
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
 
