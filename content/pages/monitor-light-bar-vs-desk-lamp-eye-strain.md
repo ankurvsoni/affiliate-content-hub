@@ -24,26 +24,15 @@ Screen-heavy workflow? Light bars usually feel cleaner. Paper notes and sketchin
 | Premium path | Fewer compromises | More setup effort |
 
 ## Top picks (live snapshot)
+
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Baseus Monitor Light Bar 🔴** — Baseus Monitor Light Bar · [Check on Amazon](https://www.amazon.com/dp/B08CXL3YQ8/?tag=triedandtr0d5-20)
-  What it is: a monitor-mounted task-light option for evening desk work.
-  Best for: users reducing screen-area glare without lighting the whole room.
-  What stands out: targeted desk illumination can improve focus in low-light setups.
-  Before you buy: check monitor thickness compatibility and control placement convenience.
-  Skip this if: you prefer broad ambient room lighting over focused task lighting.
-- **Quntis Monitor Light Bar 🔴** — Quntis Monitor Light Bar · [Check on Amazon](https://www.amazon.com/dp/B08DKQ3JG1/?tag=triedandtr0d5-20)
-  What it is: a monitor-mounted task-light option for evening desk work.
-  Best for: users reducing screen-area glare without lighting the whole room.
-  What stands out: targeted desk illumination can improve focus in low-light setups.
-  Before you buy: check monitor thickness compatibility and control placement convenience.
-  Skip this if: you prefer broad ambient room lighting over focused task lighting.
-- **Computer Monitor Light Bar Rotary 🔴** — Computer Monitor Light Bar Rotary · [Check on Amazon](https://www.amazon.com/dp/B096ZYZFDF/?tag=triedandtr0d5-20)
-  What it is: a monitor-mounted task-light option for evening desk work.
-  Best for: users reducing screen-area glare without lighting the whole room.
-  What stands out: targeted desk illumination can improve focus in low-light setups.
-  Before you buy: check monitor thickness compatibility and control placement convenience.
-  Skip this if: you prefer broad ambient room lighting over focused task lighting.
+- **Xiaomi Mi Computer Monitor Light Bar - Easy In  🟡** — Balanced confidence pick · [Check on Amazon](https://www.amazon.com/dp/B08W2C5W59/?tag=triedandtr0d5-20)
+  What it is: Xiaomi Mi Computer Monitor Light Bar - Easy Installation.
+  Best for: buyers who want practical performance with clearer buyer-signal confidence.
+  What stands out: stronger review visibility than many newer low-volume alternatives.
+  Before you buy: confirm variant/size selection and scan recent low-star reviews for repeat fit or durability issues.
+  Skip this if: you need premium pro-level materials and guaranteed consistency across every variant.
 ## Who should skip this
 Skip light bars when your monitor bezel or webcam setup makes mounting awkward. Friction kills consistency.
 
