@@ -26,24 +26,24 @@ If you walk more than 30 minutes a day, comfort geometry matters more than style
 ## Top picks (live snapshot)
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Walking sandals women 🟢** — Sandal pick · [Check on Amazon](https://www.amazon.com/dp/B08P2MW7D1/?tag=triedandtr0d5-20)
-  What it is: a women’s sandal pick for warm-weather daily wear.
-  Best for: buyers prioritizing comfort and strap stability over trend-only styling.
-  What stands out: strap layout and footbed comfort are clearer in buyer photos than studio listing images.
-  Before you buy: check strap-rub comments, true-to-size notes, and outsole grip feedback on recent reviews.
-  Skip this if: you need orthopedic-grade support without inserts.
-- **Dress sandals women 🔴** — Dress sandals women · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)
-  What it is: a women’s dress pick focused on fit, fabric feel, and occasion wear.
-  Best for: buyers selecting by occasion (work/casual/vacation) and willing to validate fit via review photos.
-  What stands out: silhouette + neckline/length combination is the main differentiator versus basic fast-fashion alternatives.
-  Before you buy: check lining/thickness, zipper quality, and height-based length feedback before choosing size.
-  Skip this if: you need tailor-level fit precision without trying an alternate size.
-- **Arch support sandals women 🔴** — Arch support sandals women · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)
-  What it is: a women’s sandal pick for warm-weather daily wear.
-  Best for: buyers prioritizing comfort and strap stability over trend-only styling.
-  What stands out: strap layout and footbed comfort are clearer in buyer photos than studio listing images.
-  Before you buy: check strap-rub comments, true-to-size notes, and outsole grip feedback on recent reviews.
-  Skip this if: you need orthopedic-grade support without inserts.
+- **Walking sandals women 🟢** — Everyday walking comfort pick · [Check on Amazon](https://www.amazon.com/dp/B08P2MW7D1/?tag=triedandtr0d5-20)
+  What it is: an everyday walking sandal style built around lightweight comfort and adjustable straps.
+  Best for: daily errands/travel days where you’ll be on your feet for longer stretches.
+  What stands out: stronger confidence signal among this page’s options, with more buyer feedback on real walking comfort.
+  Before you buy: check recent reviews for heel-strap rubbing and whether sizing runs narrow/wide for your foot shape.
+  Skip this if: you need medical-grade orthotic support without adding inserts.
+- **Dress sandals women 🔴** — Occasion-forward dress sandal pick · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)
+  What it is: a dressier sandal option meant for events, dinners, and outfit-forward looks.
+  Best for: buyers prioritizing appearance first, with moderate walking rather than all-day mileage.
+  What stands out: cleaner visual styling than utility sandals, but comfort consistency can vary more by fit.
+  Before you buy: read photo reviews for strap placement and toe-box fit before choosing your usual size.
+  Skip this if: you plan long walking days and need maximum cushioning over style.
+- **Arch support sandals women 🔴** — Support-focused comfort sandal pick · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)
+  What it is: a sandal listing positioned around arch-support comfort claims.
+  Best for: buyers who need noticeably better underfoot support than flat fashion sandals.
+  What stands out: support-oriented footbed positioning is the key differentiator versus trend-led alternatives.
+  Before you buy: check whether reviewers with similar foot conditions found support durable after week-2+ use.
+  Skip this if: you need podiatrist-prescribed support levels rather than consumer-grade comfort support.
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
 
