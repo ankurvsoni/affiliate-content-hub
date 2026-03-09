@@ -27,24 +27,24 @@ For Easter basket fillers, variety matters less than age-fit and repeat-use valu
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Schylling NeeDoh Nice Cube -Sensory Squeeze To  🔴** — Emerging listing pick · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
-  What it is: an Easter basket-filler option intended for quick multi-item gifting.
-  Best for: buyers choosing this for repeat real-world use in this category (not one-time novelty buys).
-  What stands out: its main value is straightforward use-case fit: you can quickly tell if it matches your routine.
-  Before you buy: verify selected variant details (size/material/pack contents) and check newest low-star reviews for repeated complaints on that exact variant.
-  Skip this if: you need strict niche requirements (exact fit/material/spec behavior) that broad marketplace listings often cannot guarantee.
-- **Easter Egg Fillers  🔴** — Emerging listing pick · [Check on Amazon](https://www.amazon.com/dp/B0DSBC928F/?tag=triedandtr0d5-20)
-  What it is: an Easter basket-filler option intended for quick multi-item gifting.
-  Best for: shoppers who want clear fit/use-case tradeoffs before checkout.
-  What stands out: it balances utility and price better than many niche alternatives.
-  Before you buy: verify the exact variant specs and scan newest low-star reviews for repeat issues before checkout.
-  Skip this if: you’re optimizing for luxury finish over value-for-money practicality.
-- **Easter Basket Stuffers - Premade Easter Basket  🔴** — Emerging listing pick · [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)
-  What it is: an Easter basket-filler option intended for quick multi-item gifting.
-  Best for: buyers who want fewer return surprises and a practical fit for this use-case.
-  What stands out: the listing emphasizes practical utility over cosmetic feature padding.
-  Before you buy: confirm compatibility/fit assumptions with recent photo reviews before checkout.
-  Skip this if: you require premium-grade finish with near-zero tolerance for listing variance.
+- **Schylling NeeDoh Nice Cube -Sensory Squeeze To  🔴** — Sensory fidget filler · [Check on Amazon](https://www.amazon.com/dp/B0DR9BZQR8/?tag=triedandtr0d5-20)
+  What it is: a single-cube squeeze fidget toy commonly used as a basket stuffer.
+  Best for: older kids/teens who will actually reuse tactile fidgets after Easter day.
+  What stands out: compact cube size fits eggs/baskets easily and offers a denser “slow squish” feel.
+  Before you buy: check age suitability and recent durability comments (splits/leaks) on the exact seller listing.
+  Skip this if: you need larger, toddler-safe fillers with no small-item risk.
+- **Easter Egg Fillers  🔴** — Multi-item variety filler pack · [Check on Amazon](https://www.amazon.com/dp/B0DSBC928F/?tag=triedandtr0d5-20)
+  What it is: a mixed novelty filler pack aimed at quickly filling multiple eggs/baskets.
+  Best for: parents building several baskets and needing fast item-count coverage.
+  What stands out: high piece-count convenience for bulk prep rather than curated premium gifts.
+  Before you buy: verify exact included items and duplicates risk in newest review photos before checkout.
+  Skip this if: you want branded keepsake-quality gifts instead of mixed novelty pieces.
+- **Easter Basket Stuffers - Premade Easter Basket  🔴** — Premade candy + stuffer bundle · [Check on Amazon](https://www.amazon.com/dp/B09MS1TVXX/?tag=triedandtr0d5-20)
+  What it is: a pre-packed Easter stuffer set designed to reduce item-by-item shopping.
+  Best for: last-minute basket assembly where convenience matters more than customization.
+  What stands out: bundled format saves time when you need multiple ready-to-go baskets quickly.
+  Before you buy: review allergen/ingredient details and confirm total item count for your selected variant.
+  Skip this if: you need allergy-specific, low-sugar, or fully customized basket contents.
 ## Who should skip this
 Skip these recommendations if you are buying with no return flexibility. In this category, fit and preference can matter more than review score.
 
