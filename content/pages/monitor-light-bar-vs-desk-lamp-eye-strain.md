@@ -28,11 +28,11 @@ Screen-heavy workflow? Light bars usually feel cleaner. Paper notes and sketchin
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
 - **Xiaomi Mi Computer Monitor Light Bar - Easy In  🟡** — Balanced confidence pick · [Check on Amazon](https://www.amazon.com/dp/B08W2C5W59/?tag=triedandtr0d5-20)
-  What it is: an electric sit-stand desk option for home-office use.
-  Best for: people prioritizing low-regret purchases over trend-chasing.
-  What stands out: it maps well to common day-to-day use cases in this category.
-  Before you buy: check size/material details on your selected variant and confirm return terms before ordering.
-  Skip this if: you require specialist-grade quality that typically sits at a higher price tier.
+  What it is: a monitor-mounted task-light pick for reducing eye strain at night.
+  Best for: late-evening desk users who need focused lighting without room glare.
+  What stands out: monitor compatibility and glare control are more important than max brightness claims.
+  Before you buy: confirm monitor thickness compatibility and control accessibility during work.
+  Skip this if: you prefer full-room ambient lighting instead of focused task lighting.
 ## Who should skip this
 Skip light bars when your monitor bezel or webcam setup makes mounting awkward. Friction kills consistency.
 
