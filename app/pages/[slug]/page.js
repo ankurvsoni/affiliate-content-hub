@@ -7,6 +7,21 @@ export async function generateStaticParams() {
   return getAllPages().map((p) => ({ slug: p.slug }));
 }
 
+export async function generateMetadata({ params }) {
+  const page = getPageBySlug(params.slug);
+  if (!page) {
+    return { robots: { index: false, follow: false } };
+  }
+
+  return {
+    title: page.title,
+    description: page.meta_description || page.description || undefined,
+    alternates: {
+      canonical: `/pages/${params.slug}`,
+    },
+  };
+}
+
 export default async function ContentPage({ params }) {
   const page = getPageBySlug(params.slug);
   if (!page) return notFound();

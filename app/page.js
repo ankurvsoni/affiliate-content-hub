@@ -1,5 +1,11 @@
 import Link from 'next/link';
 
+export const metadata = {
+  alternates: {
+    canonical: '/',
+  },
+};
+
 const featuredGuides = [
   { slug: 'easter-basket-fillers-amazon', title: 'Best Easter Basket Fillers on Amazon', desc: 'Age-based picks that avoid novelty clutter and low-value bundles.' },
   { slug: 'dry-shampoo-best-amazon', title: 'Best Dry Shampoo on Amazon', desc: 'Hair-type breakdown with residue and scent tradeoffs.' },

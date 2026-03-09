@@ -6,9 +6,6 @@ export const metadata = {
   title: 'Affiliate Content Hub — Product Reviews & Buying Guides',
   description:
     'Buyer-focused product reviews and buying guides with clear tradeoffs, budget tiers, and practical recommendations.',
-  alternates: {
-    canonical: 'https://reviews.orkolabs.com/',
-  },
 };
 
 export default function RootLayout({ children }) {
