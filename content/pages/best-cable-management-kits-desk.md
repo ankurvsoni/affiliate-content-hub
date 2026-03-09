@@ -27,12 +27,12 @@ If your desk looks clean but still feels chaotic, your cables are probably the b
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Monoprice Under Desk Cable Tray - Steel with P  🔴** — Emerging listing pick · [Check on Amazon](https://www.amazon.com/dp/B07H48SY8G/?tag=triedandtr0d5-20)
-  What it is: an electric standing desk option for sit-stand home-office workflow.
-  Best for: solopreneurs improving posture and movement without building an expensive custom setup.
-  What stands out: frame stability at typing height and memory presets are the key long-term satisfaction drivers.
-  Before you buy: verify desktop dimensions, load limits, and recent wobble reports for your monitor configuration.
-  Skip this if: you need premium heavy-frame rigidity at full height with dual-arm heavy monitor setups.
+- **Monoprice Under Desk Cable Tray - Steel with P  🔴** — Under-desk cable tray pick · [Check on Amazon](https://www.amazon.com/dp/B07H48SY8G/?tag=triedandtr0d5-20)
+  What it is: a steel under-desk cable tray that hides power strips/adapters and routes cable slack off the work surface.
+  Best for: desks with multiple chargers and visible cable drops where clutter keeps returning after quick cleanups.
+  What stands out: rigid steel tray design supports heavier power bricks better than lightweight adhesive-only clips.
+  Before you buy: measure tray depth against your largest adapter and confirm screw/clamp clearance under your desk.
+  Skip this if: you frequently rewire gear and need fully tool-free cable access every week.
 ## Who should skip this
 Skip full cable channels if you swap gear every week. You will spend more time opening sleeves than working.
 

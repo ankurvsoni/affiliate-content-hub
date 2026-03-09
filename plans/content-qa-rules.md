@@ -21,6 +21,8 @@ Prevent repetitive generic copy and enforce product-specific buyer guidance.
 
 ## Release checklist (required before deploy)
 1. Run duplication/generic scanner.
-2. Spot-check at least 3 pages from different categories.
-3. Verify one page on production domain (`reviews.orkolabs.com`) after alias update.
-4. If scanner finds blocklist text, fix before commit.
+2. Run `npm run qa:copy`.
+3. Run `npm run qa:consistency` (category cross-contamination guard).
+4. Spot-check at least 3 pages from different categories.
+5. Verify one page on production domain (`reviews.orkolabs.com`) after alias update.
+6. If any scanner fails, fix before commit.
