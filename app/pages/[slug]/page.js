@@ -24,7 +24,6 @@ export default async function ContentPage({ params }) {
   return (
     <main className="page">
       <article className="article">
-        <h1>{page.title}</h1>
 
         {hasAmazonLinks && (
           <div className="notice">
@@ -33,10 +32,6 @@ export default async function ContentPage({ params }) {
         )}
 
         <div className="content" dangerouslySetInnerHTML={{ __html: anchoredHtml }} />
-
-        {hasAmazonLinks && (
-          <div className="disclosure"><strong>Affiliate disclosure:</strong> Some links on this page may be affiliate links.</div>
-        )}
 
         {hasAmazonLinks && (
           <section className="cta">
