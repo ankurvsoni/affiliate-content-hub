@@ -105,7 +105,7 @@ footer{color:var(--muted);font-size:13px;margin:30px 0 10px}
 .topPicks li:hover{transform:translateY(-1px);box-shadow:0 8px 20px rgba(0,0,0,.06);border-color:#e3d8dd}
 .topPicks li strong{font-size:16px;line-height:1.35}
 .topPicks li .li-sub{display:block;margin-top:6px;padding-left:0;color:#4f4f4f;font-size:13px;line-height:1.45}
-.topPicks li .li-confidence{display:inline-flex;align-items:center;font-weight:700;border-radius:999px;padding:4px 10px;margin-top:8px}
+.topPicks li .li-confidence{display:inline-flex;align-items:center;font-weight:700;border-radius:999px;padding:4px 10px;margin-top:6px;margin-bottom:8px}
 .topPicks li .li-confidence.conf-high{background:#e9f8ef;color:#166534;border:1px solid #bfe8cd}
 .topPicks li .li-confidence.conf-medium{background:#fff7e8;color:#92400e;border:1px solid #f1d6a6}
 .topPicks li .li-confidence.conf-low{background:#fff1f2;color:#9f1239;border:1px solid #fecdd3}
