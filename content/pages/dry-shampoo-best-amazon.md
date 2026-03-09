@@ -26,19 +26,19 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 ## Top picks (live snapshot)
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Dry shampoo for oily roots 🔴** — For oily roots · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
+- **Dry shampoo for oily roots 🔴 🟡** — For oily roots · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
   What it is: a dry-shampoo option meant to extend time between wash days.
   Best for: busy routines where fast refresh and volume are priorities.
   What stands out: quick-application format for reducing wash frequency friction.
   Before you buy: check residue reports for your hair color/type and scent strength tolerance.
   Skip this if: you are highly fragrance-sensitive or need fully residue-free results.
-- **Dry shampoo for dark hair 🔴** — For dark hair tones · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
+- **Dry shampoo for dark hair 🔴 🟡** — For dark hair tones · [Check on Amazon](https://www.amazon.com/dp/B00TB00I0C/?tag=triedandtr0d5-20)
   What it is: a dry-shampoo option meant to extend time between wash days.
   Best for: busy routines where fast refresh and volume are priorities.
   What stands out: quick-application format for reducing wash frequency friction.
   Before you buy: check residue reports for your hair color/type and scent strength tolerance.
   Skip this if: you are highly fragrance-sensitive or need fully residue-free results.
-- **Unscented dry shampoo options 🟢** — Unscented options · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
+- **Unscented dry shampoo options 🟢 🟡** — Unscented options · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
   What it is: a dry-shampoo option meant to extend time between wash days.
   Best for: busy routines where fast refresh and volume are priorities.
   What stands out: quick-application format for reducing wash frequency friction.
