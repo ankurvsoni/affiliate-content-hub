@@ -27,13 +27,13 @@ The best dry shampoo is the one that matches your hair color and oil level witho
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Batiste Original Dry Shampoo  🔴** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
+- **Batiste Original Dry Shampoo  🔴** — Emerging listing pick · [Check on Amazon](https://www.amazon.com/dp/B07MGZ6X2Q/?tag=triedandtr0d5-20)
   What it is: a dry-shampoo pick aimed at reducing oil visibility between wash days.
   Best for: busy routines needing quick root refresh without a full wash cycle.
   What stands out: residue behavior and scent strength matter more than marketing claims in this category.
   Before you buy: check dark-hair white-cast feedback and fragrance sensitivity comments before checkout.
   Skip this if: you require fully residue-free, fragrance-minimal performance every use.
-- **Batiste Dry Shampoo  🔴** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
+- **Batiste Dry Shampoo  🔴** — Emerging listing pick · [Check on Amazon](https://www.amazon.com/dp/B0BTVTH9CW/?tag=triedandtr0d5-20)
   What it is: a dry-shampoo pick aimed at reducing oil visibility between wash days.
   Best for: busy routines needing quick root refresh without a full wash cycle.
   What stands out: residue behavior and scent strength matter more than marketing claims in this category.

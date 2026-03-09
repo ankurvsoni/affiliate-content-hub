@@ -27,7 +27,7 @@ NeeDoh Nice Cube can be worth it if texture feel is your priority, but listing q
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Schylling Needoh Nice Cube Sensory Toy with a  🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B0DJ1NTQXZ/?tag=triedandtr0d5-20)
+- **Schylling Needoh Nice Cube Sensory Toy with a  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B0DJ1NTQXZ/?tag=triedandtr0d5-20)
   What it is: a sensory fidget pick for tactile stress-relief and desk/gift use.
   Best for: older kids/teens or desk users who will actually reuse squeeze-style fidgets.
   What stands out: texture feel and durability consistency matter more than novelty shape names.

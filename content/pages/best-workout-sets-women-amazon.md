@@ -27,13 +27,13 @@ Comfort and fabric recovery beat trendy cuts. If you train regularly, poor stitc
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Women's Active Ombre Sports Bra + Leggings Set 🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)
+- **Women's Active Ombre Sports Bra + Leggings Set 🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B07DFS6WSR/?tag=triedandtr0d5-20)
   What it is: a women’s activewear set (sports-bra + leggings/shorts format) for training sessions.
   Best for: buyers who want coordinated gym sets and care about squat-proof fit and wash durability.
   What stands out: compression profile and set configuration (2-piece/3-piece) drive value more than style colorways.
   Before you buy: check opacity, waistband roll-down, and seam durability notes for your selected variant.
   Skip this if: you need premium technical fabric performance at budget set pricing.
-- **OYS Seamless 2-Piece Workout Set 🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B08VHR7DHK/?tag=triedandtr0d5-20)
+- **OYS Seamless 2-Piece Workout Set 🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B08VHR7DHK/?tag=triedandtr0d5-20)
   What it is: a women’s activewear set (sports-bra + leggings/shorts format) for training sessions.
   Best for: buyers who want coordinated gym sets and care about squat-proof fit and wash durability.
   What stands out: compression profile and set configuration (2-piece/3-piece) drive value more than style colorways.

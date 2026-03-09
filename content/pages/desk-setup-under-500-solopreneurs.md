@@ -27,13 +27,13 @@ Under $500, comfort has to win. Put money into chair fit and monitor height befo
 
 > Confidence: 🟢 High · 🟡 Medium · 🔴 Low
 
-- **Anker 2.4G Wireless Vertical Ergonomic Optical  🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B00BIFNTMC/?tag=triedandtr0d5-20)
+- **Anker 2.4G Wireless Vertical Ergonomic Optical  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B00BIFNTMC/?tag=triedandtr0d5-20)
   What it is: a category-relevant Amazon pick.
   Best for: buyers matching this use-case who want fewer return surprises.
   What stands out: the listing format maps clearly to a common buyer scenario in this category.
   Before you buy: verify exact variant details and scan recent low-star reviews for repeat complaints.
   Skip this if: you need strict premium-grade requirements this listing category may not reliably guarantee.
-- **ErGear Height Adjustable Electric Standing Des  🟢** — Top-reviewed pick · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
+- **ErGear Height Adjustable Electric Standing Des  🟢** — High-confidence pick · [Check on Amazon](https://www.amazon.com/dp/B0B41YH9B6/?tag=triedandtr0d5-20)
   What it is: a category-relevant Amazon pick.
   Best for: buyers matching this use-case who want fewer return surprises.
   What stands out: the listing format maps clearly to a common buyer scenario in this category.
