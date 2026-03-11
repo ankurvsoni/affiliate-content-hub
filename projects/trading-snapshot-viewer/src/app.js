@@ -2,7 +2,7 @@ async function load() {
   const res = await fetch('./data/snapshot.json');
   const data = await res.json();
 
-  document.getElementById('meta').textContent = `Point-in-time snapshot: ${data.meta.snapshotAt} · Source channel: ${data.meta.channelId}`;
+  document.getElementById('meta').textContent = `Point-in-time snapshot: ${data.meta.snapshotAt}`;
   document.getElementById('value').textContent = `$${data.kpis.portfolioValue.toFixed(2)}`;
   document.getElementById('ret').textContent = `${(data.kpis.cumulativeReturnPct * 100).toFixed(2)}%`;
   document.getElementById('spy').textContent = `${(data.kpis.relativeVsSpyPct * 100).toFixed(2)}%`;
@@ -22,13 +22,6 @@ async function load() {
   actions.innerHTML = data.actions.map(a => `<div style="margin-bottom:10px; padding:8px; border:1px solid #2a3264; border-radius:10px;">
       <div><b>${a.status}</b> · ${a.ticker} · ${a.side} ${a.qty}</div>
       <div class="muted">Entry ${a.entry} · Stop ${a.stop} · Target ${a.target}</div>
-      <div class="muted">${a.note}</div>
-    </div>`).join('');
-
-  const events = document.getElementById('events');
-  events.innerHTML = data.events.map(e => `<div style="margin-bottom:10px; padding-bottom:8px; border-bottom:1px solid #262f5f;">
-      <div><b>${e.type}</b> <span class="muted">${e.at}</span></div>
-      <div class="muted">${e.text}</div>
     </div>`).join('');
 
   new Chart(document.getElementById('equityChart'), {

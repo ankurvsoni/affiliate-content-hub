@@ -1,8 +1,7 @@
 {
   "meta": {
     "snapshotAt": "2026-03-11T02:23:07Z",
-    "channelId": "1478595389035778058",
-    "note": "Sample point-in-time snapshot from Discord updates"
+    "note": "Sample point-in-time snapshot"
   },
   "kpis": {
     "portfolioValue": 5018.86,
@@ -26,9 +25,5 @@
     { "at": "03-08", "portfolio": 5019, "spy": 5034, "hysa": 5002 },
     { "at": "03-10", "portfolio": 5019, "spy": 5034, "hysa": 5003 }
   ],
-  "events": [
-    { "at": "2026-03-11 02:23Z", "type": "SYSTEM", "text": "Cross-channel context enabled with guardrails." },
-    { "at": "2026-03-11 00:49Z", "type": "STATUS", "text": "Unified portfolio: NVDA, MSFT, UBER; +0.38% cumulative." },
-    { "at": "2026-03-10 20:27Z", "type": "RESEARCH", "text": "Weighted Revision-Intent Delta improvement applied." }
-  ]
+  "events": []
 }
