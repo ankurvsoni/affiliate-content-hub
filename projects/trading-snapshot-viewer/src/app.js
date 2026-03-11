@@ -24,6 +24,13 @@ async function load() {
       <div class="muted">Entry ${a.entry} · Stop ${a.stop} · Target ${a.target}</div>
     </div>`).join('');
 
+  const events = document.getElementById('events');
+  events.innerHTML = (data.publicEvents || []).map(e => `<div style="margin-bottom:10px; padding:8px; border:1px solid #2a3264; border-radius:10px;">
+      <div><b>${e.type}</b> · <span class="muted">${e.at}</span></div>
+      <div class="muted">${e.summary}</div>
+      <div class="muted">Impact: ${e.impact}</div>
+    </div>`).join('') || '<div class="muted">No public events in this snapshot.</div>';
+
   new Chart(document.getElementById('equityChart'), {
     type: 'line',
     data: {

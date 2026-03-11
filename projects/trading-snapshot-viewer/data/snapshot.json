@@ -25,5 +25,24 @@
     { "at": "03-08", "portfolio": 5019, "spy": 5034, "hysa": 5002 },
     { "at": "03-10", "portfolio": 5019, "spy": 5034, "hysa": 5003 }
   ],
-  "events": []
+  "publicEvents": [
+    {
+      "at": "2026-03-10 20:27Z",
+      "type": "Revision Signal",
+      "summary": "Estimate-revision acceleration improved for selected megacap names.",
+      "impact": "Raised confidence on current holds; no immediate rotation."
+    },
+    {
+      "at": "2026-03-10 19:31Z",
+      "type": "Risk Control",
+      "summary": "Overnight stop/target levels normalized for NVDA, MSFT, UBER.",
+      "impact": "Action state stayed NO_ACTION with tighter downside protection."
+    },
+    {
+      "at": "2026-03-10 16:32Z",
+      "type": "Benchmark Check",
+      "summary": "Portfolio remained ahead of HYSA hurdle but trailed SPY in the same window.",
+      "impact": "No add-on risk; hold posture preserved."
+    }
+  ]
 }
