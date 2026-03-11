@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trading Snapshot Viewer</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Inter, system-ui, -apple-system, sans-serif; margin: 0; background: #0b1020; color: #e8ecff; }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 20px; }
+    .grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 16px; }
+    .card { background: #121936; border: 1px solid #222a52; border-radius: 14px; padding: 14px; }
+    .c12 { grid-column: span 12; } .c6 { grid-column: span 6; } .c4 { grid-column: span 4; }
+    h1 { margin: 0 0 12px; font-size: 24px; }
+    h3 { margin: 0 0 10px; font-size: 14px; color: #a9b4ff; text-transform: uppercase; letter-spacing: .06em; }
+    .kpi { font-size: 24px; font-weight: 700; }
+    .muted { color: #a1abd8; font-size: 13px; }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    th, td { text-align: left; padding: 8px; border-bottom: 1px solid #262f5f; }
+    .pill { padding: 2px 8px; border-radius: 999px; font-size: 12px; font-weight: 700; }
+    .ok { background: #173a28; color: #8ef1b1; } .warn { background: #3b3215; color: #f5d27f; }
+    .bad { background: #471d27; color: #ff9ab3; }
+    @media (max-width: 900px){ .c6,.c4 { grid-column: span 12; } }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Trading Snapshot Viewer</h1>
+    <p class="muted" id="meta">Loading snapshot…</p>
+
+    <div class="grid">
+      <div class="card c4"><h3>Portfolio Value</h3><div class="kpi" id="value">-</div></div>
+      <div class="card c4"><h3>Cumulative Return</h3><div class="kpi" id="ret">-</div></div>
+      <div class="card c4"><h3>Relative vs SPY</h3><div class="kpi" id="spy">-</div></div>
+
+      <div class="card c12">
+        <h3>Equity Curve</h3>
+        <canvas id="equityChart" height="90"></canvas>
+      </div>
+
+      <div class="card c12">
+        <h3>Current Holdings</h3>
+        <table id="holdingsTable"></table>
+      </div>
+
+      <div class="card c6">
+        <h3>Copy Trades / Actions</h3>
+        <div id="actions"></div>
+      </div>
+
+      <div class="card c6">
+        <h3>Recent Event Feed</h3>
+        <div id="events"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="./src/app.js"></script>
+</body>
+</html>

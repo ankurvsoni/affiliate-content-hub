@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "snapshotAt": "2026-03-11T02:23:07Z",
+    "channelId": "1478595389035778058",
+    "note": "Sample point-in-time snapshot from Discord updates"
+  },
+  "kpis": {
+    "portfolioValue": 5018.86,
+    "cumulativeReturnPct": 0.0038,
+    "relativeVsSpyPct": -0.0032,
+    "relativeVsHysaPct": 0.0033
+  },
+  "holdings": [
+    { "ticker": "NVDA", "qty": 11.2473, "entry": 177.82, "last": 184.77, "pnlPct": 0.0391, "state": "ACTIVE_POSITION" },
+    { "ticker": "MSFT", "qty": 4.2791, "entry": 408.96, "last": 405.76, "pnlPct": -0.0078, "state": "ACTIVE_POSITION" },
+    { "ticker": "UBER", "qty": 16.6378, "entry": 75.13, "last": 72.39, "pnlPct": -0.0365, "state": "ACTIVE_POSITION" }
+  ],
+  "actions": [
+    { "status": "NO_ACTION", "ticker": "NVDA", "side": "HOLD", "qty": 11.2473, "entry": 177.82, "stop": 179.9, "target": 188.8, "note": "Carry plan" },
+    { "status": "NO_ACTION", "ticker": "MSFT", "side": "HOLD", "qty": 4.2791, "entry": 408.96, "stop": 398, "target": 412, "note": "Carry plan" },
+    { "status": "NO_ACTION", "ticker": "UBER", "side": "HOLD", "qty": 16.6378, "entry": 75.13, "stop": 70.8, "target": 74.8, "note": "Carry plan" }
+  ],
+  "equityCurve": [
+    { "at": "03-06", "portfolio": 5000, "spy": 5000, "hysa": 5000 },
+    { "at": "03-07", "portfolio": 5035, "spy": 5050, "hysa": 5001 },
+    { "at": "03-08", "portfolio": 5019, "spy": 5034, "hysa": 5002 },
+    { "at": "03-10", "portfolio": 5019, "spy": 5034, "hysa": 5003 }
+  ],
+  "events": [
+    { "at": "2026-03-11 02:23Z", "type": "SYSTEM", "text": "Cross-channel context enabled with guardrails." },
+    { "at": "2026-03-11 00:49Z", "type": "STATUS", "text": "Unified portfolio: NVDA, MSFT, UBER; +0.38% cumulative." },
+    { "at": "2026-03-10 20:27Z", "type": "RESEARCH", "text": "Weighted Revision-Intent Delta improvement applied." }
+  ]
+}
