@@ -4,11 +4,12 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run qa:content && next build",
     "start": "next start",
     "lint": "next lint",
     "qa:copy": "python3 scripts/check-generic-copy.py",
-    "qa:consistency": "python3 scripts/check-card-consistency.py"
+    "qa:consistency": "python3 scripts/check-card-consistency.py",
+    "qa:content": "npm run qa:copy && npm run qa:consistency"
   },
   "dependencies": {
     "next": "15.5.12",
