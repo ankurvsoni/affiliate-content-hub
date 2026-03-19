@@ -5,7 +5,12 @@ const nextConfig = {
     return [
       {
         source: '/tools',
-        destination: '/reviews',
+        destination: 'https://reviews.orkolabs.com/',
+        permanent: true,
+      },
+      {
+        source: '/reviews',
+        destination: 'https://reviews.orkolabs.com/',
         permanent: true,
       },
     ];

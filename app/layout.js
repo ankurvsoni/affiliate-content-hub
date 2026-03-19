@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
             <Link href="/" className="brand">Orko Labs</Link>
             <nav className="topNav">
               <Link href="/">All Projects</Link>
-              <Link href="/reviews">Reviews</Link>
+              <a href="https://reviews.orkolabs.com">Reviews</a>
               <Link href="/how-we-test">How we test</Link>
               <Link href="/editorial-policy">Editorial policy</Link>
               <Link href="/disclosure">Disclosure</Link>

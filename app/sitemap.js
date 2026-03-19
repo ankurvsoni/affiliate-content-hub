@@ -2,7 +2,7 @@ import { getAllPages } from '../lib/content';
 
 export default function sitemap() {
   const base = 'https://reviews.orkolabs.com';
-  const staticRoutes = ['', '/all-guides', '/reviews', '/about', '/disclosure', '/editorial-policy', '/how-we-test'];
+  const staticRoutes = ['', '/all-guides', '/about', '/disclosure', '/editorial-policy', '/how-we-test'];
   const pageRoutes = getAllPages().map((p) => `/pages/${p.slug}`);
 
   return [...staticRoutes, ...pageRoutes].map((route) => ({

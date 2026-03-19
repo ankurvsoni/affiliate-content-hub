@@ -27,8 +27,8 @@ const projects = [
   },
   {
     title: 'Reviews',
-    href: '/reviews',
-    desc: 'Entry point to in-depth review content and the dedicated reviews property.',
+    href: 'https://reviews.orkolabs.com',
+    desc: 'In-depth review content and buyer-focused comparison guides.',
   },
 ];
 
