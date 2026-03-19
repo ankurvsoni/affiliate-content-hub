@@ -2,10 +2,10 @@ import './globals.css';
 import Link from 'next/link';
 
 export const metadata = {
-  metadataBase: new URL('https://reviews.orkolabs.com'),
-  title: 'Affiliate Content Hub — Product Reviews & Buying Guides',
+  metadataBase: new URL('https://www.orkolabs.com'),
+  title: 'Orko Labs — Reviews, ROI Calculators & Digital Tools',
   description:
-    'Buyer-focused product reviews and buying guides with clear tradeoffs, budget tiers, and practical recommendations.',
+    'Practical digital products, calculators, and revenue-focused web assets from Orko Labs.',
 };
 
 export default function RootLayout({ children }) {
@@ -21,10 +21,10 @@ export default function RootLayout({ children }) {
       <body>
         <header className="siteHeader">
           <div className="wrap navRow">
-            <Link href="/" className="brand">Affiliate Content Hub</Link>
+            <Link href="/" className="brand">Orko Labs</Link>
             <nav className="topNav">
-              <a href="https://www.orkolabs.com">All Projects</a>
-              <Link href="/all-guides">All Guides</Link>
+              <Link href="/">All Projects</Link>
+              <Link href="/reviews">Reviews</Link>
               <Link href="/how-we-test">How we test</Link>
               <Link href="/editorial-policy">Editorial policy</Link>
               <Link href="/disclosure">Disclosure</Link>
@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
           </div>
         </header>
         <div className="affiliateBar">
-          As an Amazon Associate I earn from qualifying purchases. <Link href="/disclosure">Disclosure</Link>
+          As an Amazon Associate I earn from qualifying purchases. <Link href="/disclosure">Learn more</Link>
         </div>
         {children}
       </body>
