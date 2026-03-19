@@ -25,11 +25,7 @@ const projects = [
     href: 'https://cricket.orkolabs.com',
     desc: '2-player turn-based ABCD cricket game for quick local matches.',
   },
-  {
-    title: 'Reviews',
-    href: 'https://reviews.orkolabs.com',
-    desc: 'In-depth review content and buyer-focused comparison guides.',
-  },
+
 ];
 
 export default function HomePage() {
