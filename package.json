@@ -10,7 +10,8 @@
     "qa:copy": "python3 scripts/check-generic-copy.py",
     "qa:consistency": "python3 scripts/check-card-consistency.py",
     "qa:handoff": "python3 scripts/handoff-check.py",
-    "qa:content": "npm run qa:copy && npm run qa:consistency && npm run qa:handoff"
+    "qa:amazon": "python3 scripts/check-amazon-links.py",
+    "qa:content": "npm run qa:copy && npm run qa:consistency && npm run qa:handoff && npm run qa:amazon"
   },
   "dependencies": {
     "next": "15.5.12",
