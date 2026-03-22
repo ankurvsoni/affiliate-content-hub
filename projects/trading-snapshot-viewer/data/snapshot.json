@@ -1,28 +1,100 @@
 {
   "meta": {
-    "snapshotAt": "2026-03-11T02:23:07Z",
-    "note": "Sample point-in-time snapshot"
+    "snapshotAt": "2026-03-12T21:51:34Z",
+    "note": "Auto-refreshed from live prices"
   },
   "kpis": {
-    "portfolioValue": 5018.86,
-    "cumulativeReturnPct": 0.0038,
-    "relativeVsSpyPct": -0.0032,
-    "relativeVsHysaPct": 0.0033
+    "portfolioValue": 4993.49,
+    "cumulativeReturnPct": -0.0013,
+    "relativeVsSpyPct": 0.0081,
+    "relativeVsHysaPct": -0.002
   },
   "holdings": [
-    { "ticker": "NVDA", "qty": 11.2473, "entry": 177.82, "last": 184.77, "pnlPct": 0.0391, "state": "ACTIVE_POSITION" },
-    { "ticker": "MSFT", "qty": 4.2791, "entry": 408.96, "last": 405.76, "pnlPct": -0.0078, "state": "ACTIVE_POSITION" },
-    { "ticker": "UBER", "qty": 16.6378, "entry": 75.13, "last": 72.39, "pnlPct": -0.0365, "state": "ACTIVE_POSITION" }
+    {
+      "ticker": "NVDA",
+      "qty": 11.2473,
+      "entry": 177.82,
+      "last": 183.14,
+      "pnlPct": 0.0299,
+      "state": "ACTIVE_POSITION"
+    },
+    {
+      "ticker": "MSFT",
+      "qty": 4.2791,
+      "entry": 408.96,
+      "last": 401.86,
+      "pnlPct": -0.0174,
+      "state": "ACTIVE_POSITION"
+    },
+    {
+      "ticker": "UBER",
+      "qty": 16.6378,
+      "entry": 75.13,
+      "last": 72.97,
+      "pnlPct": -0.0288,
+      "state": "ACTIVE_POSITION"
+    }
   ],
   "actions": [
-    { "status": "NO_ACTION", "ticker": "NVDA", "side": "HOLD", "qty": 11.2473, "entry": 177.82, "stop": 179.9, "target": 188.8, "note": "Carry plan" },
-    { "status": "NO_ACTION", "ticker": "MSFT", "side": "HOLD", "qty": 4.2791, "entry": 408.96, "stop": 398, "target": 412, "note": "Carry plan" },
-    { "status": "PENDING_ACTION", "ticker": "UBER", "side": "EXIT_IF_WEAK", "qty": 16.6378, "entry": 75.13, "stop": 72.0, "target": 74.8, "note": "Rotate if close below trigger" }
+    {
+      "status": "NO_ACTION",
+      "ticker": "NVDA",
+      "side": "HOLD",
+      "qty": 11.2473,
+      "entry": 177.82,
+      "stop": 179.9,
+      "target": 188.8,
+      "note": "Carry plan"
+    },
+    {
+      "status": "NO_ACTION",
+      "ticker": "MSFT",
+      "side": "HOLD",
+      "qty": 4.2791,
+      "entry": 408.96,
+      "stop": 398.0,
+      "target": 412.0,
+      "note": "Carry plan"
+    },
+    {
+      "status": "NO_ACTION",
+      "ticker": "UBER",
+      "side": "HOLD",
+      "qty": 16.6378,
+      "entry": 75.13,
+      "stop": 70.8,
+      "target": 74.8,
+      "note": "Carry plan"
+    }
   ],
   "triggers": [
-    { "ticker": "UBER", "type": "SELL_STOP", "status": "armed", "trigger": 72.0, "last": 72.39, "distancePct": -0.54, "note": "If close below 72, exit full UBER" },
-    { "ticker": "NVDA", "type": "SELL_LIMIT", "status": "armed", "trigger": 188.8, "last": 184.77, "distancePct": 2.18, "note": "Trim/exit strength target" },
-    { "ticker": "MSFT", "type": "SELL_STOP", "status": "armed", "trigger": 398.0, "last": 405.76, "distancePct": -1.91, "note": "Downside protection" }
+    {
+      "ticker": "UBER",
+      "type": "SELL_STOP",
+      "status": "armed",
+      "trigger": 72.0,
+      "last": 72.97,
+      "distancePct": -1.33,
+      "note": "If close below 72, exit full UBER"
+    },
+    {
+      "ticker": "NVDA",
+      "type": "SELL_LIMIT",
+      "status": "armed",
+      "trigger": 188.8,
+      "last": 183.14,
+      "distancePct": 3.09,
+      "note": "Trim/exit strength target"
+    },
+    {
+      "ticker": "MSFT",
+      "type": "SELL_STOP",
+      "status": "armed",
+      "trigger": 398.0,
+      "last": 401.86,
+      "distancePct": -0.96,
+      "note": "Downside protection"
+    }
   ],
   "rotationRules": [
     {
@@ -40,10 +112,30 @@
     "Set stop + target immediately after entry and mark EXECUTED state."
   ],
   "equityCurve": [
-    { "at": "03-06", "portfolio": 5000, "spy": 5000, "hysa": 5000 },
-    { "at": "03-07", "portfolio": 5035, "spy": 5050, "hysa": 5001 },
-    { "at": "03-08", "portfolio": 5019, "spy": 5034, "hysa": 5002 },
-    { "at": "03-10", "portfolio": 5019, "spy": 5034, "hysa": 5003 }
+    {
+      "at": "03-06",
+      "portfolio": 5000,
+      "spy": 5000,
+      "hysa": 5000
+    },
+    {
+      "at": "03-07",
+      "portfolio": 5035,
+      "spy": 5050,
+      "hysa": 5001
+    },
+    {
+      "at": "03-08",
+      "portfolio": 5019,
+      "spy": 5034,
+      "hysa": 5002
+    },
+    {
+      "at": "03-10",
+      "portfolio": 5019,
+      "spy": 5034,
+      "hysa": 5003
+    }
   ],
   "publicEvents": [
     {
