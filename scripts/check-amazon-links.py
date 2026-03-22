@@ -59,11 +59,13 @@ def fetch_amazon_dp(asin: str):
     if status == 404:
         return "dead", "http_404"
 
-    if any(p in body for p in NOT_FOUND_PATTERNS):
-        return "dead", "not_found_pattern"
-
     if 'id="producttitle"' in body:
         return "ok", "product_title_found"
+
+    # Amazon often serves bot/interstitial pages on CI/build infra.
+    # Treat pattern-only matches as unverified (warn), not dead, unless it's a hard 404.
+    if any(p in body for p in NOT_FOUND_PATTERNS):
+        return "unverified", "not_found_pattern_without_product_title"
 
     # Could be bot/interstitial/geo/login wall. Don't hard-fail build on this.
     return "unverified", f"status_{status}_no_product_title"
