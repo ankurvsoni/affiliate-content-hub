@@ -27,28 +27,7 @@ The best Mother's Day gift is one that fits her actual life — not what looks i
 
 ## Top picks (live snapshot)
 
-> Confidence: 🟢 High · 🟡 Medium · 🔴 Low
-
-- **Bedsure Satin Pillowcase Set 🟡** — Silky pillowcases she'll actually use every night · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A 2-pack of satin pillowcases that reduce hair frizz and skin creasing during sleep.
-  Best for: Moms who care about sleep quality, hair health, or just appreciate soft textures.
-  What stands out: One of the most universally liked "treat yourself" gifts — she probably won't buy it herself.
-  Before you buy: Check her pillow size (standard, queen, king) before ordering.
-  Skip this if: She's already set up with premium bedding or you want something more personal.
-
-- **Ember Temperature Control Smart Mug 🟡** — Keeps coffee or tea at her preferred temperature for hours · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A battery-powered ceramic mug that holds a set temperature via Bluetooth app.
-  Best for: Moms who always let their coffee go cold or work at a desk.
-  What stands out: Genuinely solves a real daily annoyance — the app lets her set the exact temp she likes.
-  Before you buy: It requires charging and occasional app pairing; not everyone wants that friction.
-  Skip this if: She prefers simplicity or rarely drinks hot beverages.
-
-- **Uncommon Goods Personalized Recipe Book 🟡** — A keepsake recipe journal you can fill with family recipes · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A hardcover blank recipe journal with custom name or message on the cover.
-  Best for: Moms who cook, bake, or want to preserve family food traditions.
-  What stands out: Adds a personal touch without requiring much effort — it arrives ready to gift.
-  Before you buy: Delivery times on personalized items can be longer; order early.
-  Skip this if: She doesn't cook or already has a recipe system she loves.
+{{products}}
 
 ## Who should skip this
 

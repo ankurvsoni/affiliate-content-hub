@@ -27,28 +27,7 @@ The best water bottle depends almost entirely on how you use it. For keeping dri
 
 ## Top picks (live snapshot)
 
-> Confidence: 🟢 High · 🟡 Medium · 🔴 Low
-
-- **Hydro Flask Standard Mouth 21 oz 🟡** — A benchmark insulated bottle that's earned its reputation · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A 21 oz double-wall vacuum-insulated stainless steel bottle with a leak-proof flex cap — keeps drinks cold 24 hours, hot 12 hours.
-  Best for: Everyday carry, hiking, commuting — anyone who wants cold water at 4pm that was filled at 8am.
-  What stands out: The powder-coat finish holds up to drops and daily use; wide variety of lid options and sizes available.
-  Before you buy: It's pricier than alternatives with nearly identical insulation performance — you're partly paying for the brand.
-  Skip this if: You want the same performance at a lower price (see below) or need a wide-mouth for ice cubes.
-
-- **Simple Modern Summit Water Bottle 32 oz 🟡** — The value alternative to Hydro Flask with equivalent insulation · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A 32 oz vacuum-insulated stainless steel bottle with a straw lid and chug lid included — wide mouth for ice.
-  Best for: Anyone who wants Hydro Flask-level insulation without the price premium; great for gym, office, or outdoors.
-  What stands out: Comes with multiple lid options; the wide mouth fits most ice cubes and is easy to clean; strong independent reviews.
-  Before you buy: Some colorways fade more than others; stick to core colors for best durability.
-  Skip this if: You specifically want the Hydro Flask brand ecosystem (lid compatibility, accessories).
-
-- **Nalgene Wide Mouth 32 oz Tritan Bottle 🟡** — The reliable plastic classic for sport and outdoor use · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A BPA-free Tritan plastic 32 oz wide-mouth bottle with measurement markings — one of the most widely used outdoor water bottles for decades.
-  Best for: Hiking, backpacking, outdoor activities where weight matters more than insulation; also popular for tracking water intake.
-  What stands out: Virtually indestructible under normal use; extremely easy to clean; lightweight at about 6 oz empty.
-  Before you buy: No insulation — your water will be ambient temperature within an hour outdoors.
-  Skip this if: You need drinks to stay cold throughout the day or prefer stainless steel.
+{{products}}
 
 ## Who should skip this
 

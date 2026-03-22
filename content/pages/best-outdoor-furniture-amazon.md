@@ -27,28 +27,7 @@ Outdoor furniture lives outside — weather resistance matters more than aesthet
 
 ## Top picks (live snapshot)
 
-> Confidence: 🟢 High · 🟡 Medium · 🔴 Low
-
-- **Devoko 5-Piece Patio Furniture Set 🟡** — A budget-friendly rattan-look sectional with cushions for small patios · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A PE wicker conversation set with a loveseat, two chairs, an ottoman, and a coffee table — ships in multiple boxes.
-  Best for: Covered patios or balconies with limited rain exposure; renters who don't want to invest heavily.
-  What stands out: The price-to-appearance ratio is solid; PE wicker is UV-resistant and won't rust like metal frames at this price.
-  Before you buy: PE wicker sets like this aren't designed for full sun + rain year-round — store cushions when not in use.
-  Skip this if: Your patio gets heavy weather exposure or you want furniture that lasts 10+ years without care.
-
-- **Keter Corfu 4-Piece Resin Furniture Set 🟡** — All-weather resin construction that genuinely holds up to rain and sun · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A 4-piece resin rattan conversation set (2 chairs, loveseat, table) with UV-resistant material that won't rust, rot, or fade.
-  Best for: Exposed patios, rainy climates, or anyone who wants low-maintenance outdoor seating they don't have to store each winter.
-  What stands out: Keter's resin construction is meaningfully better than cheap wicker for weather resistance — the chairs don't require cushion storage.
-  Before you buy: Resin furniture has less give than cushioned options; comfort depends on whether you're sitting casually or lounging for hours.
-  Skip this if: You want deep, cushioned seating for long outdoor sessions.
-
-- **Hampton Bay Beacon Park Wicker Dining Set 🟡** — A mid-range wicker dining table and chairs for outdoor meals · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A 5-piece outdoor dining set with a glass-top table and 4 wicker dining chairs, with cushions included.
-  Best for: Patios where you primarily eat outside rather than lounge; fits 4 people comfortably.
-  What stands out: Dining-height outdoor sets are harder to find at a reasonable price — this fills the gap between cheap folding tables and premium teak sets.
-  Before you buy: Glass tabletops need occasional cleaning and should be covered or stored in severe weather.
-  Skip this if: You want a lounge/sectional setup rather than a dining configuration.
+{{products}}
 
 ## Who should skip this
 

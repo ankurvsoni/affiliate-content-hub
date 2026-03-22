@@ -1,0 +1,39 @@
+{
+  "slug": "best-graduation-gifts-amazon",
+  "affiliate_tag": "triedandtr0d5-20",
+  "products": [
+    {
+      "name": "Anker 735 Charger (65W GaN)",
+      "asin": "B09C1J3SFG",
+      "confidence": "medium",
+      "tagline": "Compact multi-port charger for laptop, phone, and tablet",
+      "what_it_is": "A 65W GaN 3-port charger (2x USB-C, 1x USB-A) — replaces a drawer full of chargers with one small brick.",
+      "best_for": "Any grad entering college, a new job, or a first apartment with multiple devices.",
+      "stands_out": "GaN tech keeps it compact without sacrificing wattage; works for MacBooks and most USB-C laptops.",
+      "before_you_buy": "Check if they have a USB-C laptop — older laptops may use proprietary charging ports.",
+      "skip_if": "They're already well-stocked with charging gear or don't use a USB-C laptop."
+    },
+    {
+      "name": "Moleskine Classic Hardcover Notebook, Large, Ruled",
+      "asin": "B001ITVJYO",
+      "confidence": "medium",
+      "tagline": "Durable notebook for note-taking, journaling, or planning",
+      "what_it_is": "A 240-page ruled hardcover notebook — the go-to for professionals and students who prefer writing by hand.",
+      "best_for": "Grads entering roles where note-taking matters, or anyone who journals.",
+      "stands_out": "Lasts for years; the quality gap between Moleskine and cheaper notebooks is noticeable after daily use.",
+      "before_you_buy": "It's a pen-and-paper gift — skip it if they're purely digital.",
+      "skip_if": "They already have a stash of notebooks or prefer digital tools."
+    },
+    {
+      "name": "Samsonite Freeform Hardside Carry-On 21\"",
+      "asin": "B07DFMZ47H",
+      "confidence": "medium",
+      "tagline": "Lightweight hardside carry-on for first solo trips",
+      "what_it_is": "A hard-shell spinner suitcase sized for airline overhead bins with spinner wheels and TSA lock.",
+      "best_for": "College grads entering jobs that involve travel, or any grad who takes trips regularly.",
+      "stands_out": "Hard-side luggage protects contents better and is easier to clean; a good piece lasts 5–10 years.",
+      "before_you_buy": "Confirm size limits for their most-used airline — some budget carriers have stricter carry-on rules.",
+      "skip_if": "They already have decent luggage or won't travel much in the near term."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "best-water-bottles-amazon",
+  "affiliate_tag": "triedandtr0d5-20",
+  "products": [
+    {
+      "name": "Hydro Flask Standard Mouth 21 oz",
+      "asin": "B01ACATBS4",
+      "confidence": "medium",
+      "tagline": "A benchmark insulated bottle that's earned its reputation",
+      "what_it_is": "A 21 oz double-wall vacuum-insulated stainless steel bottle with a leak-proof flex cap — cold 24h, hot 12h.",
+      "best_for": "Everyday carry, hiking, commuting — anyone who wants cold water at 4pm that was filled at 8am.",
+      "stands_out": "Powder-coat finish holds up to drops and daily use; wide variety of lid options and sizes.",
+      "before_you_buy": "Pricier than alternatives with nearly identical insulation — you're partly paying for the brand.",
+      "skip_if": "You want the same performance at a lower price or need a wide-mouth for ice cubes."
+    },
+    {
+      "name": "Simple Modern Summit Water Bottle 32 oz",
+      "asin": "B07FSRCRQC",
+      "confidence": "medium",
+      "tagline": "Value alternative to Hydro Flask with equivalent insulation",
+      "what_it_is": "A 32 oz vacuum-insulated stainless steel bottle with straw and chug lids included — wide mouth for ice.",
+      "best_for": "Anyone who wants Hydro Flask-level insulation without the price premium; gym, office, or outdoors.",
+      "stands_out": "Comes with multiple lid options; the wide mouth fits most ice cubes and is easy to clean.",
+      "before_you_buy": "Some colorways fade more than others; stick to core colors for best durability.",
+      "skip_if": "You specifically want the Hydro Flask brand ecosystem (lid compatibility, accessories)."
+    },
+    {
+      "name": "Nalgene Wide Mouth 32 oz Tritan Bottle",
+      "asin": "B01M3VXDB1",
+      "confidence": "medium",
+      "tagline": "The reliable plastic classic for sport and outdoor use",
+      "what_it_is": "A BPA-free Tritan plastic 32 oz wide-mouth bottle with measurement markings — virtually indestructible.",
+      "best_for": "Hiking, backpacking, outdoor activities where weight matters more than insulation.",
+      "stands_out": "Lightweight at ~6 oz empty; extremely easy to clean; decades-proven durability.",
+      "before_you_buy": "No insulation — your water will be ambient temperature within an hour outdoors.",
+      "skip_if": "You need drinks to stay cold throughout the day or prefer stainless steel."
+    }
+  ]
+}

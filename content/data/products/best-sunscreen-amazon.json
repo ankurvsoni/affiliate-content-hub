@@ -1,0 +1,39 @@
+{
+  "slug": "best-sunscreen-amazon",
+  "affiliate_tag": "triedandtr0d5-20",
+  "products": [
+    {
+      "name": "EltaMD UV Clear Broad-Spectrum SPF 46",
+      "asin": "B002MSN3QQ",
+      "confidence": "medium",
+      "tagline": "Dermatologist-recommended face sunscreen that works under makeup",
+      "what_it_is": "A lightweight chemical/mineral hybrid SPF 46 face sunscreen with niacinamide, designed for acne-prone and sensitive skin.",
+      "best_for": "Daily face protection, especially for oily, acne-prone, or sensitive skin.",
+      "stands_out": "One of the most recommended sunscreens by dermatologists; no white cast and layers well under makeup.",
+      "before_you_buy": "Pricier than most options — factor that in if using head-to-toe.",
+      "skip_if": "You want a budget daily option or prefer a purely mineral formula."
+    },
+    {
+      "name": "Neutrogena Ultra Sheer Dry-Touch SPF 100+",
+      "asin": "B004JJ2Z9Y",
+      "confidence": "medium",
+      "tagline": "Body and face sunscreen with a matte, non-greasy finish",
+      "what_it_is": "A water-resistant chemical sunscreen in SPF 100+ — one of the top-selling sunscreens in the US.",
+      "best_for": "Body coverage during outdoor activities; daily face use for those who prefer chemical formulas.",
+      "stands_out": "The dry-touch finish stays matte even in heat. Wide availability makes it easy to restock.",
+      "before_you_buy": "Contains oxybenzone, which some prefer to avoid for skin sensitivity or reef concerns.",
+      "skip_if": "You have sensitive skin or want a reef-safe or mineral-only formula."
+    },
+    {
+      "name": "Blue Lizard Mineral Sunscreen SPF 50+",
+      "asin": "B00J5GD5LE",
+      "confidence": "medium",
+      "tagline": "Mineral-only formula safe for sensitive skin and reef ecosystems",
+      "what_it_is": "A broad-spectrum mineral sunscreen using zinc oxide and titanium dioxide, water-resistant for 80 minutes.",
+      "best_for": "Sensitive skin, kids, people who prefer mineral-only formulas, or those concerned about reef safety.",
+      "stands_out": "Bottle cap turns blue in UV light — useful reminder to reapply. Fragrance-free and paraben-free.",
+      "before_you_buy": "Mineral formulas can leave a slight white cast on deeper skin tones.",
+      "skip_if": "You dislike the texture of mineral sunscreens or need something that disappears instantly."
+    }
+  ]
+}

@@ -27,28 +27,7 @@ SPF 30 is the minimum; SPF 50 is better for extended outdoor time. The real diff
 
 ## Top picks (live snapshot)
 
-> Confidence: 🟢 High · 🟡 Medium · 🔴 Low
-
-- **EltaMD UV Clear Broad-Spectrum SPF 46 🟡** — A dermatologist-recommended face sunscreen that works under makeup · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A lightweight chemical/mineral hybrid SPF 46 face sunscreen with niacinamide, designed for acne-prone and sensitive skin.
-  Best for: Daily face protection, especially for those with oily, acne-prone, or sensitive skin.
-  What stands out: One of the most frequently recommended sunscreens by dermatologists; doesn't leave a white cast and layers well under makeup.
-  Before you buy: It's pricey for a daily sunscreen — factor that in if you're using it head-to-toe.
-  Skip this if: You want a budget daily option or prefer a purely mineral formula.
-
-- **Neutrogena Ultra Sheer Dry-Touch SPF 100+ 🟡** — A body and face sunscreen with a matte, non-greasy finish · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A water-resistant chemical sunscreen in SPF 70 and SPF 100+ variants; one of the top-selling sunscreens in the US.
-  Best for: Body coverage during outdoor activities; daily face use for those who prefer chemical formulas.
-  What stands out: The dry-touch finish is genuinely different from most sunscreens — stays matte even in heat. Wide availability makes it easy to restock.
-  Before you buy: Contains oxybenzone, which some people prefer to avoid (for skin sensitivity or environmental concerns).
-  Skip this if: You have sensitive skin or want a reef-safe or mineral-only formula.
-
-- **Blue Lizard Mineral Sunscreen SPF 50+ 🟡** — A mineral-only formula safe for sensitive skin and reef ecosystems · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A broad-spectrum mineral sunscreen using zinc oxide and titanium dioxide, water-resistant for 80 minutes.
-  Best for: Sensitive skin, kids, people who prefer mineral-only formulas, or those concerned about reef safety.
-  What stands out: The bottle cap turns blue in UV light — useful reminder to reapply. Fragrance-free and paraben-free.
-  Before you buy: Mineral formulas can leave a slight white cast on deeper skin tones; the sport version is thicker than the sensitive skin version.
-  Skip this if: You dislike the texture of mineral sunscreens or need something that disappears instantly on camera.
+{{products}}
 
 ## Who should skip this
 

@@ -27,28 +27,7 @@ The best graduation gifts are practical and forward-looking — not sentimental 
 
 ## Top picks (live snapshot)
 
-> Confidence: 🟢 High · 🟡 Medium · 🔴 Low
-
-- **Anker 65W USB-C Charging Station 🟡** — A compact multi-port charger that handles laptop, phone, and tablet simultaneously · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A 65W GaN charger with multiple USB-C and USB-A ports — replaces a drawer full of chargers with one brick.
-  Best for: Any grad entering college, a new job, or a first apartment — everyone has too many devices.
-  What stands out: GaN technology keeps it compact without sacrificing wattage; works for MacBooks and most laptops.
-  Before you buy: Check if they have a USB-C laptop — older laptops may use proprietary charging ports.
-  Skip this if: They're already well-stocked with charging gear or don't use a USB-C laptop.
-
-- **Moleskine Classic Hardcover Notebook (Large) 🟡** — A durable notebook for note-taking, journaling, or planning · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A 240-page ruled hardcover notebook — the go-to for professionals and students who prefer writing by hand.
-  Best for: Grads entering roles where note-taking matters, or anyone who journals.
-  What stands out: Lasts for years; the quality gap between Moleskine and cheaper notebooks is noticeable after daily use.
-  Before you buy: It's a pen-and-paper gift — skip it if they're purely digital and rarely write by hand.
-  Skip this if: They already have a stash of notebooks or prefer digital tools.
-
-- **Carry-On Luggage (Hardside Spinner, 20") 🟡** — A lightweight hardside carry-on for first solo trips · [Check on Amazon](https://www.amazon.com/dp/B0XXXXXXXX/?tag=triedandtr0d5-20)
-  What it is: A hard-shell spinner suitcase sized for airline overhead bins — a genuine upgrade for a grad who'll be traveling for work or adventure.
-  Best for: College grads entering jobs that involve travel, or any grad who takes trips regularly.
-  What stands out: Hard-side luggage protects contents better and is easier to clean; a good piece lasts 5–10 years.
-  Before you buy: Confirm size limits for their most-used airline — some budget carriers have stricter carry-on rules.
-  Skip this if: They already have decent luggage or won't travel much in the near term.
+{{products}}
 
 ## Who should skip this
 

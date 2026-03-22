@@ -1,0 +1,39 @@
+{
+  "slug": "best-outdoor-furniture-amazon",
+  "affiliate_tag": "triedandtr0d5-20",
+  "products": [
+    {
+      "name": "Devoko 5-Piece Patio Furniture Set",
+      "asin": "B07PGTLTXV",
+      "confidence": "medium",
+      "tagline": "Budget-friendly rattan-look sectional for small patios",
+      "what_it_is": "A PE wicker conversation set with a loveseat, two chairs, ottoman, and coffee table — ships in multiple boxes.",
+      "best_for": "Covered patios or balconies with limited rain exposure; renters who don't want to invest heavily.",
+      "stands_out": "Strong price-to-appearance ratio; PE wicker is UV-resistant and won't rust like cheap metal frames.",
+      "before_you_buy": "Not designed for full sun + rain year-round — store cushions when not in use.",
+      "skip_if": "Your patio gets heavy weather exposure or you want furniture that lasts 10+ years without care."
+    },
+    {
+      "name": "Keter Corfu 4-Piece All-Weather Resin Set",
+      "asin": "B07B3WZKNK",
+      "confidence": "medium",
+      "tagline": "All-weather resin construction that genuinely holds up to rain and sun",
+      "what_it_is": "A 4-piece resin rattan conversation set (2 chairs, loveseat, table) with UV-resistant material that won't rust or rot.",
+      "best_for": "Exposed patios, rainy climates, or anyone who wants low-maintenance seating without seasonal storage.",
+      "stands_out": "Keter resin is meaningfully better than cheap wicker for weather resistance — no cushion storage needed.",
+      "before_you_buy": "Resin has less give than cushioned options; comfort depends on sitting casually vs. lounging for hours.",
+      "skip_if": "You want deep, cushioned seating for long outdoor sessions."
+    },
+    {
+      "name": "GRAND PATIO 5-Piece Outdoor Dining Set",
+      "asin": "B08NBFJWGK",
+      "confidence": "medium",
+      "tagline": "Mid-range outdoor dining table and chairs for regular use",
+      "what_it_is": "A 5-piece outdoor dining set with a tempered glass table and 4 padded chairs — seats 4 comfortably.",
+      "best_for": "Patios where you primarily eat outside; fits 4 people at a proper dining height.",
+      "stands_out": "Dining-height outdoor sets are harder to find at a reasonable price — this fills the gap well.",
+      "before_you_buy": "Glass tabletops need occasional cleaning and should be covered or stored in severe weather.",
+      "skip_if": "You want a lounge/sectional setup rather than a dining configuration."
+    }
+  ]
+}
