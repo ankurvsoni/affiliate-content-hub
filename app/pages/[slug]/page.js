@@ -7,11 +7,17 @@ export async function generateStaticParams() {
   return getAllPages().map((p) => ({ slug: p.slug }));
 }
 
+const noindexSlugs = new Set([
+  'best-st-patricks-day-shirts-women',
+]);
+
 export async function generateMetadata({ params }) {
   const page = getPageBySlug(params.slug);
   if (!page) {
     return { robots: { index: false, follow: false } };
   }
+
+  const shouldIndex = !noindexSlugs.has(params.slug);
 
   return {
     title: page.title,
@@ -19,6 +25,7 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `/pages/${params.slug}`,
     },
+    robots: { index: shouldIndex, follow: shouldIndex },
   };
 }
 
