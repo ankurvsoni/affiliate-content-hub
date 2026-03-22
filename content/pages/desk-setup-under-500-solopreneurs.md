@@ -5,7 +5,7 @@ intent: "best"
 primary_keyword: "desk setup under 500 for solopreneurs"
 meta_title: "Desk Setup Under $500 for Solopreneurs"
 meta_description: "Build a practical desk setup under $500 with comfort-first priorities."
-last_updated: "2026-03-07"
+last_updated: "2026-03-22"
 affiliate_disclosure: true
 ---
 

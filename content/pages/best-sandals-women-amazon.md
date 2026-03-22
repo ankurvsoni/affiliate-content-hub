@@ -5,7 +5,7 @@ intent: "best"
 primary_keyword: "best sandals for women amazon"
 meta_title: "Best Women's Sandals on Amazon for Comfort"
 meta_description: "Walking-friendly sandals with realistic support and durability tradeoffs."
-last_updated: "2026-03-08"
+last_updated: "2026-03-22"
 affiliate_disclosure: true
 ---
 
@@ -32,13 +32,13 @@ If you walk more than 30 minutes a day, comfort geometry matters more than style
   What stands out: stronger confidence signal among this page’s options, with more buyer feedback on real walking comfort.
   Before you buy: check recent reviews for heel-strap rubbing and whether sizing runs narrow/wide for your foot shape.
   Skip this if: you need medical-grade orthotic support without adding inserts.
-- **Dress sandals women 🔴** — Occasion-forward dress sandal pick · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)
+- **Dress sandals women 🟡** — Occasion-forward dress sandal pick · [Check on Amazon](https://www.amazon.com/dp/B0D8PGQLRM/?tag=triedandtr0d5-20)
   What it is: a dressier sandal option meant for events, dinners, and outfit-forward looks.
   Best for: buyers prioritizing appearance first, with moderate walking rather than all-day mileage.
   What stands out: cleaner visual styling than utility sandals, but comfort consistency can vary more by fit.
   Before you buy: read photo reviews for strap placement and toe-box fit before choosing your usual size.
   Skip this if: you plan long walking days and need maximum cushioning over style.
-- **Arch support sandals women 🔴** — Support-focused comfort sandal pick · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)
+- **Arch support sandals women 🟡** — Support-focused comfort sandal pick · [Check on Amazon](https://www.amazon.com/dp/B0979J9Q7T/?tag=triedandtr0d5-20)
   What it is: a sandal listing positioned around arch-support comfort claims.
   Best for: buyers who need noticeably better underfoot support than flat fashion sandals.
   What stands out: support-oriented footbed positioning is the key differentiator versus trend-led alternatives.

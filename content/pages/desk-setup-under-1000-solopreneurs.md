@@ -5,7 +5,7 @@ intent: "best"
 primary_keyword: "desk setup under 1000 for solopreneurs"
 meta_title: "Desk Setup Under $1000: Solopreneur Blueprint"
 meta_description: "A balanced desk stack with practical ergonomics and cleaner cable flow."
-last_updated: "2026-03-07"
+last_updated: "2026-03-22"
 affiliate_disclosure: true
 ---
 

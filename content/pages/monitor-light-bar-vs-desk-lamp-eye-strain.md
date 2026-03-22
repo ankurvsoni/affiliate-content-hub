@@ -5,7 +5,7 @@ intent: "best"
 primary_keyword: "monitor light bar vs desk lamp"
 meta_title: "Monitor Light Bar vs Desk Lamp (Eye Strain Test)"
 meta_description: "Which one reduces eye strain better for long desk sessions."
-last_updated: "2026-03-07"
+last_updated: "2026-03-22"
 affiliate_disclosure: true
 ---
 

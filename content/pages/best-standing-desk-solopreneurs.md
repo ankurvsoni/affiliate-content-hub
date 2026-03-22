@@ -5,7 +5,7 @@ intent: "best"
 primary_keyword: "best standing desk for solopreneurs"
 meta_title: "Best Standing Desk for Solopreneurs (2026)"
 meta_description: "Honest picks for solopreneurs: stability, depth, and tradeoffs before you buy."
-last_updated: "2026-03-07"
+last_updated: "2026-03-22"
 affiliate_disclosure: true
 ---
 

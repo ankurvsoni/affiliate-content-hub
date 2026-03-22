@@ -5,7 +5,7 @@ intent: "best"
 primary_keyword: "st patricks day shirt women amazon"
 meta_title: "Best St. Patrick’s Day Shirts for Women"
 meta_description: "Quick seasonal picks with print quality and wash-cycle durability checks."
-last_updated: "2026-03-15"
+last_updated: "2026-03-22"
 affiliate_disclosure: true
 ---
 
