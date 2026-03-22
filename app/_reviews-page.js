@@ -60,7 +60,7 @@ export default function ReviewsHomePage() {
         <div className="notice">We include clear pros/cons, "who should skip this," common mistakes, and budget recommendations in every guide.</div>
       </section>
       <footer>
-        Affiliate disclosure in every post · <Link href="/editorial-policy">Editorial policy</Link> · <Link href="/disclosure">Disclosure</Link> · <Link href="/all-guides">All Guides</Link>
+        Affiliate disclosure in every post · <Link href="/editorial-policy">Editorial policy</Link> · <Link href="/disclosure">Disclosure</Link> · <Link href="/privacy">Privacy</Link> · <Link href="/contact">Contact</Link> · <Link href="/all-guides">All Guides</Link>
       </footer>
     </main>
   );

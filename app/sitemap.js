@@ -6,7 +6,7 @@ const excludedSeasonalSlugs = new Set([
 
 export default function sitemap() {
   const base = 'https://reviews.orkolabs.com';
-  const staticRoutes = ['', '/all-guides', '/about', '/disclosure', '/editorial-policy', '/how-we-test'];
+  const staticRoutes = ['', '/all-guides', '/about', '/disclosure', '/editorial-policy', '/how-we-test', '/privacy', '/contact'];
   const pageRoutes = getAllPages()
     .filter((p) => p.slug && !excludedSeasonalSlugs.has(p.slug))
     .map((p) => `/pages/${p.slug}`);
